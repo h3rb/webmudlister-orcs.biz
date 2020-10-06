@@ -1,0 +1,31 @@
+Welcome to...
+                                   .
+                                       .   __
+                     T=-    `.  *  |     _/__\_
+                     |        `. ._|_* _/______\_
+                    /"\     . * .    _/__________\_
+            T=-     |'|  --  ---|  _/______________\_     Powered by EOMY.NET 
+        T=- |       www     .  *`_/__________________\_    http://neronis.ru
+        |  /"\   ,  |  |  T=-  _/______________________\_   neronis.ru:9000
+       /"\ www  /-\ |' |  |  _/______________________ __ \_ __          
+      wwwww/\| /---\|'/\ /"\/_____________________ __/  \__/  \  /   __    __/
+      |   /__\/-www-\/__\www\__________________ __/  \__/  \__   \__/  \__/  \
+      | ##    ##    '    '  |                        /  \__/  \__/     /  \__/
+      | ##    ##  ###### '######     ###    ##    ##  ##    ##    #### \__/  \__
+      | ##    ##  ##      ##   ##  ##   ##  ##    ##  ##    ##  ##   __/  \__/  \
+      | ########  ######  ######   ##   ##  ########  ##    ##  ##  /  \__/  \__/
+      | ##    ##  ##      ##       ##   ##  ##    ##  ##  ####  ##     /  \__/
+      '-##----##--######--##---------###----##----##---##---##----#### \__/
+                                       __/  \__/  \__/  \__/  \__/  \__/  \
+ Original DikuMUD by Hans Staerfeldt,       /  \__/  \__/  \__/  \__/  \__/
+ Katja Nyboe, Tom Madsen, Michael Seifert         \__/  \__/  \__/  \__/
+ and Sebastian Hammer.  Based on MERC 2.1 code by          \__/  \__/
+ Michael Quan, Michael Chastain and Mitchell Tse.
+ Based on ROM 2.4 copyright 1993-1998 Russ Taylor.
+
+      [1] - KOI8          [2] - Win1251       [3] - Alt(CP866)
+      [4] - Win1251 with support of small russian letter 'ja'
+      [5] - MAC           [6] - ISO-8859-5    [7] - Translit
+      [test] - To test different codepages enter 'test'.
+
+Select your codepage: [2] 

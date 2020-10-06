@@ -1,0 +1,29 @@
+@>----------------------------------------------------------------------------<@
+  ~~~888~~~                           888~~\  888                         888 
+     888    888-~\ 888  888  e88~~8e  888   | 888  e88~-_   e88~-_   e88~\888 
+     888    888    888  888 d888  88b 888 _/  888 d888   i d888   i d888  888 
+     888    888    888  888 8888__888 888  \  888 8888   | 8888   | 8888  888 
+     888    888    888  888 Y888    , 888   | 888 Y888   ' Y888   ' Y888  888 
+     888    888    "88_-888  "88___/  888__/  888  "88_-~   "88_-~   "88_/888
+
+             888~-_        e      888     888          e      ,d88~~\ 
+             888   \      d8b     888     888         d8b     8888    
+             888    |    /Y88b    888     888        /Y88b    `Y88b   
+             888    |   /  Y88b   888     888       /  Y88b    `Y88b, 
+             888   /   /____Y88b  888     888      /____Y88b     8888 
+             888_-~   /      Y88b 888____ 888____ /      Y88b \__88P'
+@>----------------------------------------------------------------------------<@
+       "connect <name> <password>" connects you to an existing character.
+       "connect guest guest" connects you to a guest character.
+       "create <name> <password>" creates a character to enter CGEN.
+
+	"WHO" tells you who is logged in to the game.
+        "QUIT" exits the game and saves your character.
+@>----------------------------------------------------------------------------<@
+       All feature characters are (c) Charlaine Harris. This MUSH in no way
+       constitutes a challenge to that copyright. This game is intended for
+       non-profit and entertainment purposes only, and is no way assuming
+       intellectual property for any previously registered trademarks and
+       copyrights.
+@>----------------------------------------------------------------------------<@
+ ÿýÿý

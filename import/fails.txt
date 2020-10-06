@@ -1,0 +1,196 @@
+extinction.dyndns.org 9090  BADHOST
+zeno.biyg.org 2850  NONE
+crlh.tzo.org 4201 http://crlh.tzo.org/iw-muck/ BADHOST
+fate.e-pro.dk 4000 http://www.kingdom.dk NONE
+Marupa.Net 3737 http://ffaw.marupa.net NONE
+vega.dyndns.org 2518 http://vega.dyndns.org/~fireflymux/ NONE
+centauri.myvnc.com 7777 http://www.centaurihome.net/mud/ NONE
+fd2.mudhosting.net 6501  BADHOST
+forgottencolony.genesismuds.com 1171 http://forgottencolony.wikia.com NONE
+fdmud.no-ip.org 8585 http://fdmud.no-ip.org BADHOST
+bacchus.brotay.net 5300  NONE
+lyorn.kerch.com 4210 http://www.leopard.net/~gd2k/ NONE
+jadenlabs.servegame.com 3500 http://jadenlabs.servegame.com NONE
+onlinegameplanner.no-ip.org 4000 http://www.carlylesmith.karoo.net/gta-mud/index.html NONE
+matrixmud.net 4001 http://halomud.3forum.biz/forum.htm NONE
+omen.genesismuds.com 2095  NONE
+elraver.com 6999 http://www.elraver.com/wyldheart/ NONE
+hercmud.net 3000 http://hercmud.net:8080 NONE
+hexmud.com 4000 http://hexmud.com/mudapplet/ NONE
+hrmud.com 4000 http://www.hrmud.com NONE
+mud.highlands3.org 9100 http://71.18.42.14/ NONE
+darkrising.dune.net 2345 http://hogwarts-darkrising.wikidot.com NONE
+dune.net 9876  NONE
+www.holyquest.org 8080 http://www.holyquest.org/ NONE
+Hypermux.spodzone.com 2050  BADHOST
+hyst.ath.cx 2453 http://hysteriamud.wordpress.com/ BADHOST
+mud.inferno3.com.br 4000 http://www.inferno3.com.br/ BADHOST
+muck.kamakiri.org 9578 http://ijmuck.wetpaint.com/ NONE
+innercircle.genesismuds.com 5010 http://innercircle.genesismuds.com NONE
+Insomniacs.game-host.org 7000 http://None NONE
+thejunglemud.com 4000 http://www.serverblack.com NONE
+jungle.serverblack.com 4000 http://www.serverblack.com/ NONE
+mush.korongil.org 6250 http://www.korongil.org/ NONE
+tcdbbs.zapto.org 4000 http://www.tcdbbs.zapto.org NONE
+fleamuds.mine.nu 4000 http://fleamuds.mine.nu:4001 NONE
+landsofdarkness.com 4040 http://www.landsofdarkness.com BADHOST
+www.legendofthenobles.com 5400 http://www.legendofthenobles.com/ NONE
+hera.twilightstar.net 9000 http://www.twilightstar.net/~legend NONE
+endtimes.genesismuds.com 9229 http://endtimes.wikidot.com NONE
+lotr.dune.net 1248 http://www.lordsoftherealm.org/ NONE
+lbom.game-host.org 8888 http://www.rpgdevelopers.com NONE
+carlnet.ee 4242 http://arion.pri.ee NONE
+czaralex.com 6002 http://www.czaralex.com NONE
+mediamoo.media.mit.edu 8888 http://www.media.mit.edu/~asb/MediaMOO/ NONE
+mud.merging.org 5454 http://www.merging.org/ NONE
+67.40.220.113 8250 http://miamibynight.mymush.com NONE
+agrajag.rpg-works.net 6767  NONE
+midnight-sun.ludd.luth.se 3000 http://midnight-sun.ludd.luth.se:3328/ BADHOST
+might.genesismuds.com 4445 http://might.genesismuds.com NONE
+games.tinymush.net 4201 http://None NONE
+muxtheseries.isunlimited.net 1941 http://mts.wikidot.com NONE
+lix.mudmagic.com 3000 http://invernalia.mudmagic.com/ NONE
+myrkamux.com 8294 http://www.myrkamux.com/ NONE
+narnia.godscreations.net 2050 http://www.godscreations.net/ NONE
+mcp-server.com 6789  NONE
+mud.newedenmud.org 4000 http://www.newedenmud.org NONE
+nightfall.org 23 http://www.nightfall.org/ NONE
+moo.NowMOO.nl 2001 http://www.nowmoo.nl/ NONE
+69.33.164.106 4080 http://www.nuclearwarmudusa.com/ NONE
+tangled.floop.com 9876 http://floop.com/OneRing BADHOST
+amber.org.uk 7500 http://www.oraclemud.net NONE
+orderofchaos.servegame.com 9500 http://orderofchaos.servegame.com NONE
+csmctmto.netside.net 4321  NONE
+phidar.org 9000  NONE
+zeno.biyg.org 2083 http://planetsrisetopower.freeforums.org/ NONE
+omen.genesismuds.com 2090  NONE
+promage.hopto.org 4000 http://www.promage.be NONE
+puzzleboxmuck.org 8890 http://www.puzzleboxmuck.org NONE
+qs.smwa.net 4000 http://https://www.smwa.net/forums/index.php NONE
+aspen.twi.gs 9000 http://None NONE
+mush.rawhidemush.com 8315 http://www.rawhidemush.com NONE
+rotm.murpe.com 1501 http://rotm.murpe.com NONE
+chaos.caile.org 4201  NONE
+frankenpuke.com 4005 http://frankenpuke.com NONE
+revolution.kicks-ass.net 3002 http://www.revolutionmud.com NONE
+rt.foobird.net 2222 http://communities.msn.com/theroundtable3.html NONE
+dune.net 6000 http://demon-sushi.com/sabrous NONE
+www.sgmoo.com 1111 http://www.sgmoo.com NONE
+scrymud.net 4444 http://scrymud.net/ NONE
+atlasmud.com 4445 http://atlasmud.com NONE
+game.shadowglen.com 4000 http://www.shadowglen.com NONE
+mud.shadow-lands.com 4000 http://www.shadow-lands.com NONE
+themudhost.net 2501 http://www.themudhost.net/~worldgate/wiki/ NONE
+shockwave.servegame.org 5555 http://shockwave.servegame.org/ BADHOST
+silverbridge.org 6666 http://www.silverbridge.org NONE
+dune.net 2850  NONE
+80.176.142.132 4000  NONE
+cpanel1.betterbox.net 4321 http://www.geocities.com/solareclipsemud NONE
+soucon.silvertree.org 4201 http://soucon.silvertree.org NONE
+elwar.com 8888 http://www.elwar.com/southlands NONE
+sovdawn.kicks-ass.net 4000 http://www.sovdawn.com/ BADHOST
+mush.stfadedglory.com 2100  BADHOST
+sensenet.legions.org 5555 http://www.legions.org/ngo/ BADHOST
+starwarsmush.net 4200 http://starwarsmush.wikia.com/wiki/Main_Page BADHOST
+swroe.xidus.net 2187 http://None NONE
+mush.swsagas.net 1138 http://www.swsagas.net BADHOST
+plum.amber.org.uk 8400 http://100megs41.com/~anjunyte/schism/ NONE
+swu.xidus.net 1138 http://None BADHOST
+starmud.com 4000 http://www.starmud.com BADHOST
+sh.ackmud.net 2000 http://stormhunters.ackmud.net NONE
+straits.mushpark.com 3201 http://None NONE
+throes.slayn.net 1200 http://throes.slayn.net/ BADHOST
+timeoftroubles.kicks-ass.net 3334 http://www.myspace.com/timeoftroubles BADHOST
+towers.genesismuds.com 2750 http://towersmud.net NONE
+vermaxhosting.c 5555 http://Coming Soon! BADHOST
+omen.genesismuds.com 3311  NONE
+frostmud.com 8018  NONE
+uzakdiyarlar.com 4000 http://www.uzakdiyarlar.com NONE
+mud.vargonmud.com 23 http://www.vargonmud.com/ NONE
+omen.digital-genesis.com 4000 http://omen.digital-genesis.com/~verited/ NONE
+demonspawn-mpv3.com 7777 http://www.demonspawn-mpv3.com NONE
+enigma.dune.net 6115  NONE
+wintershade.net 2003 http://wintershade.proboards.com NONE
+mud.wormhole.se 4000 http://www.wormhole.se NONE
+xma.digimoon.org 4040 http://lyssa.org/xma/ BADHOST
+xaos-mud.org 5000 http://xaos-mud.org NONE
+frankenpuke.com 4000 http://www.frankenpuke.com NONE
+mercator.dune.net 2411 http://mercator.dune.net NONE
+mud.worldofaarchon.com 8000 http://www.worldofaarchon.com NONE
+aarils.game-host.org 4530 http://aarils.webs.com NONE
+acro.game-host.org 5500 http://acro.game-host.org:81/~acro/ NONE
+klinkwall.net 4000 http://none currently, a new hopepage will come up soon BADHOST
+muck.aftermuck.net 1994 http://aftermuck.net NONE
+d20mud.com 6070 http://www.ageoflegends.com/ NONE
+ageoflegynds.game-host.org 4000 CTYPE HTML PUBLIC  BADHOST
+aor.genesismuds.com 8080 http://ageofreptiles.weebly.com NONE
+mud.allandria.com 7778  NONE
+allanthya.org 4000 http://www.allanthya.org NONE
+althorizons.genesismuds.com 4242  NONE
+angelcity.isunlimited.net 3993 http://angelcity.wikidot.com/ NONE
+animemud.genesismuds.com 6000 http://None NONE
+evileyehosting.net 2100 http://None NONE
+arcanenites.com 7000 http://arcanenites.com/ NONE
+arkoffools.com 3000 http://www.arkoffools.com/game NONE
+arsonmud.mine.nu 9999 http://arsonmud.webs.com NONE
+q.geek.nz 8888  NONE
+aww-mud.org 6500 http://aww-mud.org NONE
+asgardian.dune.net 4444  NONE
+ashesoftiran.mudhosting.net 6767  BADHOST
+amush.cx 4190 http://www.amush.cx/ BADHOST
+spodzone.com 1350  BADHOST
+black-sands.net 4110 http://www.black-sands.net NONE
+blackburn.ath.cx 4444 http://blackburn.ath.cx/ NONE
+bloodcallsblood.com 2300  NONE
+blueearth.genesismuds.com 2583 http://blueearth.wikidot.com NONE
+shadows.dreamstealer.net 4000 http://shadows.dreamstealer.net NONE
+bsgkharon.com 5102 http://kharon.wikidot.com NONE
+burningmud.com 4000 http://www.burningmud.com NONE
+carnival.mudmagic.com 4123 http://carnival.slayn.net NONE
+carrionfields.com 4449 http://forums.carrionfields.com/dc/dcboard.php NONE
+cpmud.rockwoodtech.com 1440 http://cpmud.rockwoodtech.com NONE
+castle.mudsrus.com 4000 http://castle.mudsrus.com/ BADHOST
+chaos.redcoven.com 4600 http://None NONE
+chaosmuck.no-ip.com 3333 http://users.vnet.net/raven3/homepage.html NONE
+destruction.game-host.org 2000  NONE
+charmedmush.com 1820 http://www.charmedmush.com NONE
+ice.cold.org 1138 http://ice.cold.org:1180/ NONE
+sandstorm.arthmoor.com 9696 http://sandstorm.arthmoor.com NONE
+trekgames.net 1234 http://www.trekgames.net NONE
+zeno.biyg.org 2851  NONE
+zeno.biyg.org 2852  NONE
+ftg.homeip.net 1234 http://xroads.webs.com/ NONE
+cotmud.genesismuds.com 10000 http://cotmud.genesismuds.com NONE
+d20mud.com 4000 http://www.d20mud.com/ NONE
+titan.mudmagic.com 1313 http://www.darkrisings.net/ NONE
+bhmm.net 7400 http://bhmm.net/acheronmud NONE
+mud.zomgponies.com 4000  NONE
+mserv2.sgeinc.com 8888 http://www.wizvax.net/ice/index.html NONE
+moemuds.com 4000 http://www.moemuds.com NONE
+draconia.genesismuds.com 5400 http://draconia.genesismuds.com NONE
+cpanel1.betterbox.net 6715  NONE
+zeno.biyg.org 20000 http://zeno.biyg.org/~dbstar NONE
+dragonballrevolt.genesismuds.com 6969 http://dragonballrevolt.genesismuds.com NONE
+frostmud.com 8215 http://dbseries.tripod.com NONE
+98.192.238.47 5969 http://www.freewebs.com/dbzjtp NONE
+slayn.net 1236  NONE
+dbz-o.com 8012 http://morph420.webs.com NONE
+frostmud.com 8310  NONE
+thedragonball.net 1901 http://thedragonball.net NONE
+frostmud.com 8000 http://None NONE
+dragonfyre.ca 7676 http://dragonfyre.ca NONE
+dragonheartmud.com 6666 http://www.dragonheartmud.com NONE
+rabuntu.doesntexist.com 8888 http://None as yet. (Coming.) BADHOST
+dreamscapes.dyn.dhs.org 4500 http://www.dreamscapes.dyn.dhs.org/ds2 NONE
+winds.org 4202  NONE
+mudmagic.com 9000 http://www.mudmagic.com NONE
+openyoureyes.mudhosting.net 4999  BADHOST
+eden.isunlimited.net 4510 http://edenmush.wiki-site.com/ NONE
+eldoradomud.com 9000 http://www.eldymud.com NONE
+wraith.aplus.net 4000 http://empire.aplus.net/ NONE
+linkwarriors.wilkerstaff.com 4000  NONE
+epmud.hopto.org 9000 http://epmud.hopto.org NONE
+epic.globalepicadventures.com 2112 http://https://www.globalepicadventures.com/ BADHOST
+zeno.biyg.org 2500 http://zeno.biyg.org/%7Edenisius/erandiawiki/index.php/Main_Page NONE
+eternalbattle.sytes.net 8000 http://eternalbattle.sytes.net NONE
+165.166.201.200 3131 http://None Yet - Under Construction NONE

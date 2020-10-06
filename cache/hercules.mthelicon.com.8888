@@ -1,0 +1,32 @@
+#$#mcp version: "2.1" to: "2.1"
+Welcome to
+
+      __  __      __         _     ____         __
+     / / / /___  / /_  _____(_)___/ / /__  ____/ /
+    / / / / __ \/ __ \/ ___/ / __  / / _ \/ __  / 
+   / /_/ / / / / /_/ / /  / / /_/ / /  __/ /_/ /  
+   \____/_/ /_/_.___/_/  /_/\__,_/_/\___/\__,_/   
+                                               
+             __          _               
+        ____/ /__  _____(_)_______  _____
+       / __  / _ \/ ___/ / ___/ _ \/ ___/
+      / /_/ /  __(__  ) / /  /  __(__  ) 
+      \__,_/\___/____/_/_/   \___/____/  
+                                   
+
+
+To connect to your character use 'connect <playername> <password>'
+This tinymuck is a adventure land for those with brave hearts. It's
+not like your average muck in that your character, by their actions
+may get changed in little or great ways. To get a character, visit
+http://www.angel-hare.com/acorn/muck/UDChar.html and follow the 
+directions there.
+
+Use the WHO command to see WHOs on first. (Right!)
+
+***************************************************************
+New Feature: 	
+	You can now connect to port 8188 if you would like
+a SSL conection to the server. 
+***************************************************************
+

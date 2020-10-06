@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------
+             /\
+ *  *       <  > *    *      *      *      *       *    *   *    *     * 
+   *   *  * |  |   *      *       *    *        *      *      *      
+ *   *   *  |  | *    *       *     *       *        *       *      *  
+   *   *    |__|   *         *          *         *      *       *     *
+   ---------|\/|------------------------------------> *       *      *    
+ <          |/\|             ------------------------->  *     *   *    
+   ---------|--|------------------------------------> *    *   *   *  *    *
+  *  *      |  |                               *     *        *      *
+    *   *   |  |  Monaco: Mediterranean Nights  *    *    *     *     *   *
+ *   *  *   |  | *       *         *      *        *        *      *     *
+   *   *    <  >*   *      *     *      *  * *         *     * *      *
+ *   *       \/   *     *     *      *          *    *     *       *     *
+ 
+ "Mediterranean Nights" uses the Storyteller(tm) game system.  All 
+ terms used in conjunction with this system are copyright and used with 
+ express permission of White Wolf.  Reproduction of any of the text files  
+ containing game mechanics without permission of White Wolf is strictly  
+ prohibited.
+
+        (White Wolf Game Studio, nor the Management, does not assume
+               responsibility for the contents of this MUX)
+ Be warned, this MUX deals with adult themes.  Your consent is implied when
+ you connect.  This does not mean that unpleasent behaviour is condoned, but
+ it is an unavoidable plot device that is used in storytelling situations.
+----------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "Create <name> <Password>" creates a player for this Mux.
+  "connect guest guest" connects you to a guest character to look around.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list
+----------------------------------------------------------------------------

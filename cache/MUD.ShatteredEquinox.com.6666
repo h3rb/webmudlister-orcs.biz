@@ -1,0 +1,42 @@
+
+Does your client support the ANSI colour standard? (Y/N) Color is on.
+[m[1m[m[0m[m[1;30m
+[31m[37m       ________   _   _____                                            
+      / ___   _| / \  |    \                                           
+  ____\ \  | |  / _ \ |    /___                                        
+ |______/  |_| /_/ \_\|_|\_____|                                    [31m[m[0;30m[m[1;30m
+____________________________________________________________________________
+[31m
+   ____  _     ________________ __  _   __   __  __ ________      __ __  __
+  / _  || | /\|_  _|_  _|  |   \|  | \ |  | /  \ || ||_  _||   ||/  \\\  //
+ / / | || |/  \ ||   || | _| |\ | _|  )| _|/    \|| || || ||   |||  | \\//
+| /  | || ||/\| ||   || ||_| |/ ||_|  |||_|| /\ ||| || || ||   |||  |  \/
+| |  |    ||  | ||   || | _|   /| _||\|| _|| || ||| || || ||   |||  |  ||
+ \ \ |    ||  | ||   || || |   \|| ||/|||  | || ||| || || |\\  |||  |  ||
+  \ || || ||||| ||   || ||_| |\ ||_|  |||_ | \/ \|| || || ||\\ |||  |  /\
+__/ || || ||||| ||   || |  | || |  |  )|  |\   \ \\_/|_||_|| \\|||  | //\\
+|___/|_||_||||| ||   || |__|_||_|__|_/ |__| \__/\/___/____||  \_|\__///  \\
+[m[0;30m[m[1;30m 
+____________________________________________________________________________
+[31m[m[0m
+                                              ___  _  ___  _   ____    ____
+                                              \  \/ \/  / / \  |   \  / ___|
+                                               \       / / _ \ |   /__\ \ 
+                                                \_/ \_/ /_/ \_\|_|\_____/ 
+
+[m[1;36m                             Star Wars : Shattered Equinox
+[37m[m[0m[36m                 By: Bartek (Caspian) Shaarani and Tony (Kupek) Robbins
+[m[1m[m[0m[36m                 Based on SWReality 1.0 by Sean (Durga the Hutt) Cooper
+[m[1m[m[0m[36m                  And SWRiseInPower 1.0 by Mark (Darrik Vequir) Miller
+
+                  Original SMAUG 1.0 written by Derek (Thoric) Snider. 
+                 Merc 2.1 (c) was created by Furey, Hatchet, and Kahn. 
+             DikuMud (c) was created by Sebastian Hammer, Michael Seifert, 
+                       Hans Henrik, Tom Madsen, and Katja Nyboe. 
+                        See HELP CREDITS for additional credits       
+            Star Wars and Star Wars names are a copyright of Lucasfilm ltd.
+ 
+[m[1;31mNew system: Accounts - You need to create an account.[m[0;36m
+[m[1;30m[32mDue to Volanic Reasons our [m[0;32mBeta Testing date as been pushed back![37m
+[m[1;30m[m[0;36mPlease enter your account name[m[1;36m:[m[0m
+

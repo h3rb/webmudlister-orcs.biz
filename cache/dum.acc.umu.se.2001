@@ -1,0 +1,25 @@
+        .--.   _,
+    .--;    \ /(_                       Welcome to DUMII, stranger!
+   /    '.   |   '-._    . ' .          The adventure awaits you.
+  |       \  \    ,-.)  -= * =-
+   \ /\_   '. \((` .(    '/. '
+    )\ /     \ )\  _/   _/              Guest users, connect as 'Guest'
+   /  \\    .-'   '--. /_\              and other users don't!
+  |    \\_.' ,        \/||
+  \     \_.-';,_) _)'\ \||
+   '.       /`\   (   '._/              Enter 'who' to see who's visible.
+     `\   .;  |  . '.
+  jgs  ).'  )/|      \
+       `    ` |  \|   |                 (C) 1990-2010 by
+               \  |   |                 Christer Holgersson (AdA),
+                '.|   |                 Mikael Jakobsson (MiJak) et al.
+                   \  '\__
+                    `-._  '. _
+                        `;-.` `._       See http://dum.acc.umu.se/
+                          `-`'-._\      for more info about the game.
+
+Type "help" if you are going to create a new character,
+"who" if you want to see who is logged in, "guest" if you want
+to look around or enter your character's name.
+
+By what name shall I call you (3-10 letters, no spaces): 

@@ -1,0 +1,31 @@
+             This MUD was originally based on Nightmare IV
+                Copyright (c) 1992-1996 George Reese.
+ *
+                                    |>>>   `            '       |>>>     *
+      .--.            `         _  _|_  _                   _  _|_  _
+    .'`'`'`.                   | |_| |_| |       Neo       | |_| |_| |
+   : `'`'`' :     ^v^          \  .      /   LOST IN TIME  \ .    .  /
+   :`'`'`'`';                   \    `  /       .           \    .  /
+    `.'`'`.'              *      |  .  |_   _   _   _   _   _| ,   |
+      `--'      *                |    .| |_| |_| |_| |_| |_| |  .  |
+                                 |'    | .    .     .      . |    .|  '
+    `               '       +    | .   |.   ,  _______   .   |   , |
+                                 |     |  .   /+++++++\    . | .   |     +
+            .                 ___|   . |   ,  |+++++++|.  .  |     |
+                          ___/,',|_____|______|+++++++|______|-----'--~---
+~~~~~~~~~~~~~~~~~~~~~~~~~| ,',',',',',',',',',',',',',',',',',',',',',',',
+      ~~~~~               \_________________________,',',',',',',',',',','
+    ~~~~~~~~~                  ~~~      ~~   ~  ~    \____________________
+      ~~~~~          ~~~~~  ~~    ~~~~~~~~~     ~~~~~~   ~       ~~~
+Admin(s) e-mail: turlogh@email.cz, jezl@centrum.cz
+Note: if you want just to look around, login as 'guest'.
+
+
+         Driver: MudOS v22.2a31               Mudlib: Nightmare IVr4-6/        
+
+There is an account system. If you have no account, type 'new' to get
+one or type 'guest' to look around as a guest.
+What is your account name? 
+You must enter an account name or 'new' to create new one!
+
+What is your account name? ящ

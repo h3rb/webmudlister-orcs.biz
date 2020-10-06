@@ -1,0 +1,45 @@
+#!/usr/local/bin/php
+<?php
+ $result=file_get_contents("result.txt");
+ $names=strip_tags($result);
+ $names=explode("\n",$names);
+ $isolated_names=array(); $i=0;
+ foreach ( $names as $name ) {
+  $isolated_names[$i]=explode("[",$name);
+  $isolated_names[$i]=$isolated_names[$i][0];
+  $i++;
+ }
+
+ $isolated_links=array(); $i=0;
+ $links=explode("\n",$result);
+ foreach( $links as $link ) {
+  $isolated_links[$i]=explode("\"",$link);
+  $isolated_links[$i]=str_replace("&amp;","&",$isolated_links[$i][3]);
+  $i++;
+ }
+
+ $total=count($isolated_names); $files=array();
+ for ( $i=0; $i<$total; $i++ ) {
+  if ( strlen(trim($isolated_names[$i])) < 1 ) continue;
+  exec( $e="wget -q \"http://www.mudconnect.com".$isolated_links[$i]."\" --output-document=pages/" . $files[$i]=str_replace(" ","_",$isolated_names[$i]) );
+//  echo $e."\n";
+  $page=file_get_contents("pages/".$files[$i]);
+  $site=explode("site:",$page);
+  $site=explode("[", $site[1]);
+  $site=$site[0];
+  if ( strpos("\n",$site) ) continue;
+  if ( strpos("url=http://",$page) ) {
+   $web=explode("Connect and Play Now", $page);
+   $web=explode("Location:",$web[1]);
+   $web=$web[0];
+   $web=explode("url=http://",$web);
+   var_dump($web);
+//   $web=explode("\"",$web[]);
+   $t=count($web);
+   for ( $j=3; $j<$t; $j++ ) unset($web[$j]);
+   var_dump($web);
+   die();
+  } else $web="";
+  echo $isolated_names[$i] . ' ' . $isolated_links[$i] . ' ' . $site . ' ' . $web . "\n";
+ }
+?>

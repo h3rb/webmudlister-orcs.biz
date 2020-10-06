@@ -1,0 +1,18 @@
+
+          ___ _               _         __  __ _   _ ____  
+         |_ _| |__   ___ _ __(_) __ _  |  \/  | | | |  _ \ 
+          | || '_ \ / _ \ '__| |/ _` | | |\/| | | | | | | |
+          | || |_) |  __/ |  | | (_| | | |  | | |_| | |_| |
+         |___|_.__/ \___|_|  |_|\__,_| |_|  |_|\___/|____/ 
+
+      Iberia MUD is running in Iberia MUD Engine (IME) v0.98b
+     Written in Java by Joao Afonso - joaodiasafonso@gmail.com
+ With the support of Clan Celtiberos's, http://www.celtiberos.net
+
+"Knowledge of the enemy's dispositions can only be obtained from other 
+men." - Sun Tzu, Art of War
+
+'connect <name> <password>' connects you to an existing character.
+'create <name> <password> <re-type password>' creates a new character.
+
+>

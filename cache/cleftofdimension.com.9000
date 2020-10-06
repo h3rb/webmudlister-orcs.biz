@@ -1,0 +1,44 @@
+
+
+Do you want ANSI color? [Y/n] [0;35mAnsi enabled![0m
+
+ 
+[0;36m  _______   _    _   _____    [0;35m      ____   _       _____  _____  _______
+[0;36m |__   __| | |  | | |  __/    [0;35m     / __ \ | |     |  __/ |  __/ |__   __|
+[0;36m    | |    | |__| | | |__     [0;35m    / /  \/ | |     | |__  | |__     | |
+[0;36m    | |    |  __  | |  __>    [0;35m   ( (      | |     |  __> |  __>    | |
+[0;36m    | |    | |  | | | |__     [0;35m    \ \__/\ | |__/\ | |__  | |       | |
+[0;36m    \ /    |_|  |_| |____\    [0;35m     \____/ |_____/ |____\ |_|       \ /
+[0;36m     V                                                      [1;33m __   [0;35m  V
+[0m                 [1;33mo        [1;32m     /|\    [0;33m  _____           [1;33m    /  \
+[0m              [1;37m _[0;33m/[1;37m_        [1;32m   /  |  \  [0;33m |  __/    [1;33m   ____    | [1;37m'[0;33m|\
+[0m           [1;37m   /_  \       [1;32m  |\ / \[0;32m /|[0;33m  | |__      [1;33m  \ \ \___/ /[0;33m\/
+[0m            [1;35m O[1;37m_   /[1;31m/\     [1;32m  | |   |[0;32m | [0;33m |  __>    [1;33m    \__      \
+[0m            [1;37m  /   | [1;31m \    [1;32m  | |   |[0;32m | [0;33m | |           [1;33m   \|_/__/
+[0m             [1;37m \ |_|[1;31m\[0;31m|[1;31m/    [1;32m  |/ \ / [0;32m\[1;30m|[0;33m  | |       [0;33m        ///
+[0m             [1;37m (___/       [1;32m   \  |[1;30m  /   [0;33m\ /              [0;33m \\\
+[0m                          [1;32m     [0;32m\|[1;30m/   [0;33m   V               [0;33m \[0;37m|>>
+[1;30m   _____    _ [0;37m  __    __   _____[1;37m  __    _ [0;37m   ____   _ [1;30m   ____    __    _
+[1;30m  |  __ \  | |[0;37m |  \  /  | |  __/[1;37m |  \  | |[0;37m  / ___| | |[1;30m  /    \  |  \  | |
+[1;30m  | |  \ | | |[0;37m |   \/   | | |__ [1;37m |   \ | |[0;37m | \__   | |[1;30m |  /\  | |   \ | |
+[1;30m  | |  ( | | |[0;37m | |\  /| | |  __>[1;37m | |\ \| |[0;37m  \__ \  | |[1;30m | (  ) | | |\ \| |
+[1;30m  | |__/ | | |[0;37m | | \/ | | | |__ [1;37m | | \   |[0;37m  ___\ | | |[1;30m |  \/  | | | \   |
+[1;30m  |_____/  |_|[0;37m |_|    |_| |____\[1;37m |_|  \__|[0;37m |____/  |_|[1;30m  \____/  |_|  \__|
+ 
+[0;37m                           ROM Version 2.4 beta
+[0;37m             Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+[0;37m             Tom Madsen, Michael Seifert, and Sebastian Hammer
+[0;37m             Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+[0;37m                ROM 2.4 copyright (c) 1993-1998 Russ Taylor
+ 
+There came a day upon which the Cleft of Dimension itself folded, leaving
+only the End of Time in its wake...
+ 
+[1;31mPlease redirect to port 4000 for the newest and improved version of this
+MUD that has been in development since early 2001![0;37m
+ 
+Take note that this MUD is no longer actively supported or supervised, but
+remains up for archival and nostalgia purposes.
+ 
+[0;31mWhat do they call you?[0;37m 
+

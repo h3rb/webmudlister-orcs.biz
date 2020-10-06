@@ -1,0 +1,15 @@
+                    Based on "The Blademaster" by Rick Bentsen
+    ()            _                                                       ()
+    )(           |_)  |   _.   _|   _   ._ _    _.   _  _|_   _   ._      )(
+ o======o    \   |_)  |  (_|  (_|  (/_  | | |  (_|  _>   |_  (/_  |    o======o
+    ||        '---------------------------------------------------'       ||
+    ||                                                                    ||
+    ||                                                                    ||
+    ||        'create <name> <password>' to create a new character.       ||
+    ||        'connect <name> <password>' to connect to a character.      ||
+    ||        'QUIT' to logout.                                           ||
+    ||        'WHO' to find who is playing the game right now.            ||
+    ||                                                                    ||
+    ||                                                                    ||
+    \/  PennMUSH 1.8.1p5                blademaster.isunlimited.net 1975  \/
+               Admin email address: blademastermush.gmail.com

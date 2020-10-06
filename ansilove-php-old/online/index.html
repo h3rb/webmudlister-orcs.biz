@@ -1,0 +1,79 @@
+<!--
+/*****************************************************************************/
+/*                                                                           */
+/* Ansilove/PHP 1.07 (c) by Frederic Cambus 2003-2009                        */
+/* http://ansilove.sourceforge.net                                           */
+/*                                                                           */
+/* Created:      2003/07/17                                                  */
+/* Last Updated: 2009/06/14                                                  */
+/*                                                                           */
+/*****************************************************************************/
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//Dtd XHTML 1.0 transitional//EN" "http://www.w3.org/tr/xhtml1/Dtd/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Ansilove Online</title>
+</head>
+
+<body style="text-align: center;">
+<form action="ansilove_online.php" method="post" enctype="multipart/form-data">
+
+<p><a href="http://ansilove.sourceforge.net" target="new">Ansilove/PHP</a> 1.07 (c) by Frederic Cambus 2003-2009</p>
+<p><input type="file" name="input" size="60" /></p>
+
+<p>
+<span style="padding: 10px;">
+<select name="font">
+<option value="80x25" selected="selected">80x25 Font</option>
+<option value="80x50">80x50 Font</option>
+<option value="armenian">Armenian Font</option>
+<option value="baltic">Baltic Font</option>
+<option value="cyrillic">Cyrillic Font</option>
+<option value="french-canadian">French Canadian Font</option>
+<option value="greek">Greek Font</option>
+<option value="greek-869">Greek Font (CP869)</option>
+<option value="hebrew">Hebrew Font</option>
+<option value="icelandic">Icelandic Font</option>
+<option value="latin1">Latin-1 Font</option>
+<option value="latin2">Latin-2 Font</option>
+<option value="nordic">Nordic Font</option>
+<option value="persian">Persian Font</option>
+<option value="portuguese">Portuguese Font</option>
+<option value="russian">Russian Font</option>
+<option value="turkish">Turkish Font</option>
+<option value="amiga">Amiga Font (Topaz+)</option>
+<option value="b-strict">B-Strict Font</option>
+<option value="b-struct">B-Struct Font</option>
+<option value="microknight">MicroKnight Font</option>
+<option value="mosoul">mO'sOul Font</option>
+<option value="pot-noodle">P0T-NOoDLE Font</option>
+<option value="topaz">Topaz Font</option>
+</select>
+</span>
+
+<span style="padding: 10px;">
+<select name="bits">
+<option value="8" selected="selected">8-bit Font</option>
+<option value="9">9-bit Font</option>
+<option value="ced">CED Mode</option>
+<option value="thumbnail">Thumbnail Mode</option>
+</select>
+</span>
+
+<span style="padding: 10px;">
+Columns : <input type="text" maxlength="3" size="3" name="columns" />
+</span>
+
+<span style="padding: 10px;">
+iCE colors : <input type="checkbox" name="icecolors" value="1" />
+</span>
+</p>
+
+<p>Supported formats: ANSi, PCBOARD, BiNARY, ADF, iDF, TUNDRA, XBiN</p>
+
+<input type="submit" value="Convert" />
+</form>
+</body>
+</html>

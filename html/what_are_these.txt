@@ -1,0 +1,11 @@
+added.html       - shown when a mud is added
+duh.html         - user entered nothing or not enough info
+already.html     - mud is already listed and active
+none.html        - mud is not there
+badhost.html     - mud was described with a bad host
+mud.html         - a mud listing
+pagestart.html   - top bookend
+pageend.html     - bottom bookend
+form.html        - submit your mud html content
+policy.html      - listing and delisting policies
+listheader.html  - how to render the listing headers

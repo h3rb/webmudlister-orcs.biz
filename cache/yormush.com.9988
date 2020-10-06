@@ -1,0 +1,26 @@
+Welcome to YorMUX
+------------------------------------------------------------------------------
+  YorMUX chronicles the world of Yor, which starts out as a simple, small
+  area where the players are deposited. It is a cross-dimensional world
+  where characters from different media(or of the player's creation) can meet
+  and interact, as well as to help build a place to live and explore the
+  world's quirks.
+
+  This is primarily a community-driven effort, but conflict between characters
+  is inevitable. This is also an Adults-only game due to mature themes, and
+  no players under 18(or 21 in some areas) will be allowed. If you would like
+  to participate, please login and take a look around. We are still small but 
+  growing quickly, and more quality roleplayers are welcome.
+
+  "connect <name> <password>" connects you to an existing character.
+  "connect guest" connects you to a guest account if one is prepared.
+  "create <name> <password>" creates a new character.
+
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+
+  Once logged on, "help" gives help on specific commands, functions, and
+  special topics.  Other 'help' commands include "+help" and "news".
+
+  To see if a name is free, log on as Guest and try "+alias <name>"
+------------------------------------------------------------------------------

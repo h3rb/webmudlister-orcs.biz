@@ -1,0 +1,15 @@
+
+Computer subsystem initializing................
+
+Virtual mesh network login> node add XK4 -R /universe/root/
+attempting to connect..........[universe daemon v1.0]
+
+conection established.
+
+Welcome to XyddiKon-4 LDMud.
+Driver: LDMud 3.4.1
+Lib   : XK4 v 1.0.0
+-----------------------------------------------------------
+Command(s) available at logon: [31mwho[2;37;40;0m
+-----------------------------------------------------------
+What is your name: 

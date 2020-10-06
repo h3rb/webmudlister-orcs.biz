@@ -1,0 +1,14 @@
+--------------------------------------------------------------
+                          Y.A.M
+	            (Yet Another Mush)
+--------------------------------------------------------------
+connect <name> <password>  to connect to an existing character
+create <name> <password>   to create a new character
+connect Guest guest        to connect to the guest character
+
+QUIT to log out               WHO to find out who is logged on
+--------------------------------------------------------------
+*** Please ensure you look at +bbread 1/1 upon connecting. ***
+--------------------------------------------------------------
+Note: We're currently being ported across to RhostMUSH
+        - things may be a little funky or not totally work!

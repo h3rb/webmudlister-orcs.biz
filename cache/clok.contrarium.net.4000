@@ -1,0 +1,24 @@
+
+
+[1;34m  ___ _    ___  _  __[0m
+[1;34m / __| |  / _ \| |/ /[0m
+[1;34m| (__| |_| (_) | ' <[0m
+[1;34m \___|____\___/|_|\_\[0m
+[1;36m              (c) Contrarium[0m
+
+[0mWelcome to CLOK!
+
+Type [1;36m/login [character] [password][0m to log in as your character.
+Type [1;36m/register [character] [password][0m to register a new character.
+Type [1;36m/who[0m to see who else is connected.
+
+NOTE:  For players using a mud client that intercepts slash(/) characters, use a double-dash instead, like so:  [1;36m--login [character name] [password][0m
+
+[1;35mCLOK staff will never ask for your password for any reason.  To change your password, use the /password command.[0m
+
+Check the website for more information:  http://clok.contrarium.net
+
+If you like CLOK, please vote for it. Thank you for all your votes!
+Top MUD Sites - http://www.topmudsites.com/vote-clok.html
+The MUD Connector - http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=CLOK
+

@@ -1,0 +1,21 @@
+<h1>What is #listname#?</h1><br>
+<div align=left>
+<br>
+<p>#listname# is a free, lightweight flat-file MUD listing service that allows anonymous
+web contributers to add MUDs to a list of services.  The services are polled on-demand
+and nightly for reliability, and after #downtime# days of consistent downtime, MUDs are moved from
+the active list to the #graveyard#.  For the first #revival# days, MUDs in the #gravenick# are
+checked nightly to see if they can be revived and placed on the main list.</p>
+<br>
+<h2>License</h2>
+<p>The software behind this service is called Web Mud Lister and is distributed under the LGPL, as long as no GPL add-ons are used, otherwise it falls back to the latest, most compatible GPL version.  It can be picked up at <a href="http://code.google.com/p/webmudlister">this link</a>.</p>
+<h2>Storage Policies</h2>
+<ul>
+ <li>Active MUDs are stored in the #listnick# and are <a href="digest.php">digested</a>.</li>
+ <li>#gravenick# MUDs can also be <a href="list.php?graveyard=yes">viewed</a>.</li>
+ <li>MUDs cannot be delisted, however MUDs that have the keyword "NOLIST" in the first 8192 characters of their title sequence cannot be stored in the list.</li>
+ <li>New listings are checked against both the #listnick# and the #gravenick# for uniqueness.  If a new listing matches a #gravenick# MUD, the MUD's "corpse" is revived.</li>
+</ul>
+<h2>Security</h2>
+<p>Injection protection is used to thwart baddies.</p>
+</div>

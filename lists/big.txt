@@ -1,0 +1,428 @@
+The Isles: Dreams of Kltara (NiMUD)|orcs.biz|9999|http://nimud.org|0
+Avatar|avatar.outland.org|3000|http://www.outland.org|0
+3-Kingdoms|3k.org|3000|http://www.3k.org/|0
+4 Dimensions|4dimensions.org|6000|http://4dimensions.org/|0
+Achaea, Dreams of Divine Lands|achaea.com|23|http://www.achaea.com|0
+Act of War|actofwar.com|4000|http://www.actofwar.com/|0
+Aetolia, the Midnight Age|aetolia.com|23|http://aetolia.com|0
+Age of Legends: Tales of the Lance|ageoflegends.com|6010|http://www.ageoflegends.com/|0
+Akanbar|akanbar.com|23|http://www.akanbar.com/|0
+Aldebaran|aldebaran-mud.de|2000|http://aldebaran-mud.de/|0
+AlexMUD|130.237.234.80|4000|http://alexmud.stacken.kth.se/|0
+Aliens Vs Predator: The MUD|avpmud.com|4000|http://www.avpmud.com/|0
+Alter Aeon|alteraeon.com|3000|http://www.alteraeon.com/|0
+Ancient Anguish|ancient.anguish.org|2222|http://www.anguish.org/|0
+Avalon: The Legend Lives|avalon-rpg.com|23|http://www.avalon-rpg.com/|0
+Awakened Worlds|awakenedworlds.net|4000|http://www.awakenedworlds.net/|0
+Azilar|azilar.com|2150|http://www.azilar.com/|0
+Bad Trip|badtripmud.com|7778|http://www.badtripmud.com/|0
+BatMUD|batmud.bat.org|23|http://www.bat.org/|0
+Beauty|beautymush.bub.org|6969||0
+Beutelland|bl.mud.at|5678|http://bl.mud.at/|0
+Bleached InuYasha Galaxy|biyg.org|1801|http://www.biyg.org/|0
+Cajun Nights MUSH|cajun.cernu.us|7373|http://cajunnights.com/|0
+Cities of M'Dhoria|mud.mdhoria.net|6996|http://www.mdhoria.net/|0
+Dark and Shattered Lands|dsl-mud.org|4000|http://dsl-mud.org|0
+Dark Castle MUD|dcastle.org|6666|http://www.dcastle.org/|0
+Dark Metal|darkmetal2039.com|2039|http://www.darkmetalmush.net/|0
+Dark Risings|darkrisings.com|1313|http://www.darkrisings.com/|0
+Darkwind|darkwind.org|3000|http://darkwind.org|0
+Dawn of the Ages|dawn.rplay.net|8000|http://www.rplay.net/|0
+Reinos de Leyenda 2|rlmud.org|23|http://www.rlmud.org|0
+Final Realms|fr.hyssing.net|4001|http://finalrealms.org|0
+Desolation|desolation.org|7878|http://www.desolation.org/|0
+Discworld|discworld.atuin.net|23|http://discworld.atuin.net/|0
+Dragonball Advent Truth|www.advent-truth.com|1280|http://www.advent-truth.com/|0
+Dragonball Evolution|evolution.wolfpaw.net|1874|http://www.evolutionmud.com/|0
+Dragonfire|dragonfiremud.com|1999|http://www.dragonfiremud.com/|0
+DUMII|dum.acc.umu.se|2001|http://dum.acc.umu.se/|0
+Dune|dune.servint.com|6789|http://dune.servint.com/|0
+Duris: Land of Bloodlust|mud.durismud.com|7777|http://duris.game-host.org/|0
+ElendorMUSH|mush.elendor.net|1892|http://www.elendor.net/|0
+Elusive Dreams|elusive.genesismuds.com|8800|http://elusive.genesismuds.com/|0
+Evermore|mud.evermore.de|23|http://www.evermore.de/|0
+Exile|exile.lurker.net|4000|http://exile.lurker.net/|0
+FiranMUX|firan.legendary.org|5000|http://www.legendary.org/firan|0
+Furscape MUCK|furscape.servegame.com|2001|http://www.furscape.com/|0
+Genocide|geno.org|2222|http://www.geno.org/|0
+God Wars II by a man with a small penis from a sheep that he grafted on|godwars2.org|3000|http://www.godwars2.org/|0
+Harshlands|mud.harshlands.net|5555|http://www.harshlands.net/|0
+HellMOO|hellmoo.org|7777|http://hellmoo.org/|0
+Icesus MUD|icesus.org|23|http://www.icesus.org/Icesus/|0
+Kallisti MUD|legendsofkallisti.com|4000|http://www.legendsofkallisti.com/|0
+Kingdoms of the Lost|kotl.org|2222|http://kotl.org/|0
+Leviathan|leviathan.com|1691|http://www.leviathan.com/|0
+Lost Wishes|lost.wishes.net|5555|http://lost.wishes.net:5550/|0
+Medievia|medievia.com|4000|http://www.medievia.com/|0
+Merentha|mud.merentha.com|10000|http://www.merentha.com/|0
+Morgengrauen|mg.mud.de|23|http://mg.mud.de/|0
+MUD Valinor|mud.valinor.com.br|4000|http://mud.valinor.com.br/|0
+Muddy Waters|mw.muddywaters.org|3000||0
+Natural Selection|kycor.org|3250|http://www.kycor.org/|0
+Netherworld|mud.envy.com|3666|http://www.netherworldmud.net/|0
+NorCon MUSH|216.136.9.21|4210|http://www.istaweyr.net/index.php|0
+RavenMUD|ravenmud.com|6060|http://www.ravenmud.com/|0
+Realm of Utopian Dreams|rudmud.com|1701|http://rudmud.com/|0
+Redemption|mud.redemptionmud.com|4000|http://www.redemptionmud.com/|0
+RivaMUSH|riva.silvren.com|7777|http://mush.mecreant.org/riva/|0
+Shadow Siege|shadowsiege.com|4080|http://www.shadowsiege.com/|0
+Shattered Kingdoms|mud.shatteredkingdoms.org|1996|http://www.shatteredkingdoms.org|0
+Silberland|sl.mud.at|4711|http://sl.mud.at/|0
+Star Wars Mud - SWmud|swmud.org|6666|http://www.swmud.org/|0
+Revenge of the Jedi|rotjmud.com|9400|http://rotjmud.com/|0
+Tamedhon Fantasy-MUD|mud.tamedhon.at|4711|http://www.tamedhon.at/|0
+Tempora Sanguinis 2|ts.noshout.it|4000|http://www.noshout.it/|0
+TempusMUD|mud.tempusmud.com|2020|http://www.tempusmud.com/|0
+Tera Mud|teramud.com|4000|http://www.teramud.com/|0
+Tharsis Gate|tharsis-gate.org|8765|http://tharsis-gate.org/|0
+The Cleft of Dimensions|cod.mudmagic.com|4354|http://cod.mudmagic.com/|0
+The Final Challenge|mud.finalchallenge.net|4000|http://www.finalchallenge.net/|0
+The Great Hunt|tghmud.org|8500|http://tghmud.org/|0
+The Green Leaf|the-green-leaf.de|2000|http://the-green-leaf.de|0
+The Last Sunrise|thelastsunrise.net|9000|http://thelastsunrise.net/|0
+The Sea of Storms - A Wheel of Time MUD|tsosmud.org|7070|http://www.tsosmud.org/|0
+The Two Towers|towers.t2tmud.org|9999|http://www.t2tmud.org/|0
+The Unofficial SquareSoft MUD|uossmud.sandwich.net|9000|http://uossmud.sandwich.net/|0
+Threshold RPG|thresholdrpg.com|23|http://www.thresholdrpg.com/|0
+TorilMUD: The Sojourner's Home|torilmud.org|9999|http://www.torilmud.org/|0
+Turf|turf.org|4000|http://www.turf.org/|0
+UNItopia|unitopia.de|23|http://www.unitopia.de/|0
+Valhalla|valhalla.com|4242|http://www.valhalla.com/|0
+Valheru MUD|mud.valheru.com|4242|http://www.valheru.com/|0
+Vampire Wars|new.vampire-wars.com|6666|http://new.vampire-wars.com/|0
+Xanadu Station|xanadu.gull.us|8888||0
+Xyllomer|mud.xyllomer.de|3000|http://www.xyllomer.de/|0
+ZombieMUD|zombiemud.org|23|http://www.zombiemud.org/|0
+Dead Souls Dev|dead-souls.net|8000|http://dead-souls.net/demo.html|0
+3Scapes|3scapes.org|3200|http://www.3scapes.org|0
+After the Plague|atp.pedia.szote.u-szeged.hu|3000|http://160.114.100.96/~atp/|0
+Aladon MUD|aladon.sovintel.ru|9000|http://www.aladon.sovintel.ru/|0
+Altered Realities|ar.squeep.com|8888|http://www.tf-ring.com/muck/|0
+AnderLand|al.mud.de|31415|http://al.mud.de/|0
+Arkadia|arkadia.rpg.pl|23|http://www.arkadia.prv.pl/|0
+Ashirion: The Broken Sphere|ashirion.co.uk|1969|http://ashirion.co.uk|0
+AtlantisMUX|atlantis.mushpark.com|7777||0
+AustinMUD|mud.austinmud.dk|4000|AustinMUD&url=http://www.austinmud.dk|0
+Avalon (German)|avalon.mud.de|7777|http://avalon.mud.de/|0
+Bakhara|bakhara.org|4000|http://www.bakhara.org/|0
+Blood Dusk|mud.dusk.org|7000|http://mud.dusk.org/|0
+Blood of Dragons|bod.westeros.org|3000|http://www.westeros.org/BoD/|0
+The Burbs|Burbs.org|4567|http://www.Burbs.org/|0
+The Burning Eye|mud.burning-eye.net|4000|http://www.burning-eye.net/|0
+CaveMUSH|cavemush.com|6116|http://cpmud.rockwoodtech.com|0
+ChronoMuck|charis.servegame.com|4242|http://www.geocities.com/marr0w|0
+CoffeeMud|coffeemud.net|23|http://www.coffeemud.net|0
+Core|www.coremud.org|4000|http://www.coremud.org/|0
+Cryosphere|cryosphere.org|6666|http://cryosphere.org/|0
+Cthulhumud|cthulhumud.com|8889|http://www.cthulhumud.com|0
+CyberSphere|cs.netsville.com|7777|http://cs.netsville.com|0
+Dark Lair|tiopon.mudmagic.com|3500|http://tiopon.mudmagic.com|0
+Dark Skies|darkskies.dune.net|2001||0
+Darker Realms|darkerrealms.org|2000|http://www.darkerrealms.org/|0
+DCU: Legacies of Justice|legaciesofjustice.com|9999|http://www.legaciesofjustice.com|0
+De Digitale Metro|moo.demetro.nl|8888|http://www.demetro.nl/|0
+Dead Souls|alcatraz.wolfpaw.net|8000|http://dead-souls.net|0
+DelusionsMUCK|DelusionsMUCK.com|4999|http://www.DelusionsMUCK.com|0
+DiscordiaMUSH|discordia.nevermind.com|4201|http://discordia.nevermind.com/discordia/|0
+Divine Blood|mud.divineblood.org|4000|http://www.divineblood.org|0
+Dominia MUD|mud.dominiamud.net|3333|http://www.dominiamud.net|0
+DustMARE|winds.org|4000|http://dustmare.freewebpage.org/|0
+Edge of Creation|edgeofcreation.net|5665|http://www.edgeofcreation.net/|0
+The Eternal Fantasy|eternalfantasy.org|3333|http://www.eternalfantasy.org|0
+Eternal Night II|en.mudmagic.com|9009|http://en.mudmagic.com|0
+Federation II|fed2.ibgames.net|30003|http://www.ibgames.com|0
+FinalFrontier|FinalFrontier.mud.de|23|http://FinalFrontier.mud.de/|0
+FluffMUCK|fluffmuck.org|8888|http://www.fluffmuck.org/|0
+Forgotten Kingdoms|forgottenkingdoms.skynet.ie|443|http://www.forgottenkingdoms.org|0
+GATEWAY - The MU* Community (formerly Online Gaming Resource)|connect.mu-gateway.net|6700|http://www.mu-gateway.net/|0
+Ghostwheel|moo.ghostmoo.org|6969|http://fazigu.org/~quinn/ghost/|0
+Gizmo DikuMud|gizmomud.com|6969|http://gizmomud.com|0
+GreaterMUD|greatermud.com|23|http://www.greatermud.com|0
+Haelrahv|haelrahv.com|3001|http://haelrahv.com|0
+Haunted Memories: Vienna by Night|haunted-memories.net|3010|http://www.haunted-memories.net|0
+Hidden Worlds|hwmud.mudmagic.com|4000|http://www.hwmud.org|0
+Hiervard|hiervard.ru|4000|http://hiervard.traktir.ru|0
+HoloTrek|holotrek.org|1701|http://www.holotrek.org/|0
+Iconoclast|iconoclast.org|7777|http://www.iconoclast.org/|0
+Imperian: The Sundered Heavens|imperian.com|23|http://www.imperian.com/|0
+Ironclaw Online|ironclaw.skotos.net|443||0
+Islands of Myth|islandsofmyth.org|3000||0
+The Laboratory|labmush.mushpark.com|3939||0
+Labyrinthus Latinus|ll.imp.ch|3333||0
+Lac|lac.pl|4000||0
+The Land LPMud|mud.spin.de|6666||0
+Latitude|latitude.muck.ca|23||0
+Lensmoor|lensmoor.org|3500||0
+The Lion King|muck.tlkmuck.org|7675||0
+Lost Souls|lostsouls.org|23||0
+Lusternia: Age of Ascension|lusternia.com|23||0
+M*U*S*H|mush.pennmush.org|4201||0
+Malevolence|mudpuddle.shwaine.com|3000||0
+Marvel Untold|mo.mushpark.com|2012||0
+Materia Magica|materiamagica.com|23||0
+Meadows MUCK|amber.org.uk|7000||0
+Medieval Times MUD|timesmud.com|8500||0
+Minstrel Hall|minstrelhall.com|221||0
+Mirkwood|mirkwoodmud.org|4000||0
+MOO Canada, Eh?|moo.ca|7777||0
+Moomellow|chilipepper.com|7777||0
+MOOsaico|moo.di.uminho.pt|7777||0
+MUCK University|muck.universitymuck.org|2052||0
+Mud Dweller|mud.muddweller.com|23||0
+MUDII|mudII.co.uk|23||0
+MUSHMellow|chilipepper.com|7777||0
+NannyMUD|mud.lysator.liu.se|2000||0
+NarutoMUD|narutofor.us|4545||0
+Necromium|necromium.com|4000||0
+Neronis|neronis.ru|9000||0
+New Moon|eclipse.cs.pdx.edu|7680||0
+Nodeka|nodeka.com|23||0
+Northern Lights|aber.ludd.ltu.se|6715||0
+The Oaktree-house talker|toth.org.uk|23||0
+OtherSpace|jointhesaga.com|1790||0
+Primal Darkness|primaldarkness.com|5000||0
+Realm of Magic|rom.mud.de|4000||0
+Redwall|redwall.realm.limitless.org|4203||0
+The Resort Online|resort.org|2323||0
+Road to Amber|roadtoamber.com|6250||0
+Ryksyll MOO|moo.ryksyll.com|8888||0
+ShadowGate|firedragon.com|6969||0
+Shadowrun - Denver|aelfhame.net|1999||0
+SluggyMARE|winds.org|8000||0
+SMiLE|smile.ath.cx|6715||0
+Spindizzy|muck.spindizzy.org|7072||0
+Static Chaos - Still Alive|staticchaos.mudhosting.net|1982||0
+Stick in the MUD|mud.stick.org|9000||0
+Tapestries MUCK|tapestries.fur.com|2069||0
+TerraFirmA|terrafirma.terra.mud.org|2222||0
+the-night.com|the-night.com|2000||0
+Transformers: 2K5 MUSH|tf2005.net|5555||0
+TrekMUSH - Among The Stars|ats.trekmush.org|1701||0
+UglyMug|uglymug.org.uk|6239||0
+VanciaMUD|vanciamud.fr|4000||0
+Virtual Realities|vr.frostbite.org|3019||0
+The Void|void.greenfinch.com|1234||0
+Wheel of Time: Winds of Change|mud.winds-of-change.org|4000||0
+Wunderland|wunderland.mud.de|23||0
+Arcane Ages|arcaneages.com|4000||0
+BayMOO|baymoo.org|8888||0
+Dark Castle|dcastle.org|23||0
+Dizzymud|mud.dizzymud.com|4000||0
+Dragon Swords|dragonswordsmud.com|1234||0
+End of the Line|eotl.org|2010||0
+Geas|geas.de|3333|http://www.geas.de/|0
+Adventures Unlimited|tharel.net|5005|http://www.tharel.net/|0
+Abandoned Reality|64.22.103.201|4443|http://www.abandoned.org/|0
+Elephant Mud|elephant.org|23|http://www.elephant.org/|0
+GateWay|gatewaymud.org|6969|http://www.gatewaymud.org/|0
+Midian|midianmud.com|3456||0
+VikingMUD|vikingmud.org|2001|http://www.vikingmud.org/|0
+Cowboy Bebop: Space Cowboy|cb-sc.com|4567|http://cb-sc.com|0
+Legends of the Jedi|legendsofthejedi.com|5656|http://legendsofthejedi.com|0
+TinyTIM|yay.tim.org|5440||0
+BlackMUD|blackmud.com|2000|http://www.blackmud.com/|0
+DartMud|dartmud.com|2525|http://www.dartmud.com/|0
+Perilous Realms|perilousrealms.com|23|http://www.perilousrealms.com/|0
+ShyeMUSH|shye.org|1701||0
+Le Jardin Mystique|lejardin.org|6969||0
+Scarlet|scarlet-citadel.co.uk|2000||0
+Age of War|ageofwarmud.org|4000|http://www.ageofwarmud.org/|0
+The Pharcyde|pharcyde.org|23|http://pharcyde.org|0
+DynamixMUSH|dynamix.socialmush.com|4200||0
+Dark Wizardry|darkwiz.cjoffline.com|6969|http://darkwizardry.proboards.com/|0
+HoloMuck|holomuck.org|5757|http://www.holomuck.org/|0
+Lambda Moo|Lambda.moo.mud.org|8888||0
+StickMUD|stickmud.com|7680||0
+Lands of Stone|mud.landsofstone.org|4801|http://www.landsofstone.org/|0
+Distant Lands|dl2.net|23|http://www.dl2.net/|0
+Hyperborea|hyperborea.net|2000|http://www.hyperborea.net/|0
+Enchantment Under the Sea|euts.org|2000||0
+Time of Darkness|todmud.com|7700||0
+Dark Legacy MUD|dark-legacy.com|9898|http://www.dark-legacy.com/|0
+Cuendillar MUSH|cuendillar.org|7200|http://www.cuendillarwiki.org/|0
+The Gathering...|tgmud.net|9010|http://tgmud.net/|0
+Moral Decay|playdecay.com|3003||0
+Star Wars MUSH|starwarsmush.com|4402||0
+CyberASSAULT|cyberassault.org|11111|http://www.cyberassault.org/|0
+Eltanin Resurrection|celemir.net|3000||0
+Almaren|celemir.net|4000||0
+Eye of the World MUD|wot.eyemud.com|2222|http://www.eyemud.com/|0
+Barren Realms MUD|barren.barrenrealmsmud.com|8000|http://www.barrenrealmsmud.com/|0
+Brutus MUD|brutusmud.net|4444||0
+IcewindMUD|icewindmud.org|2021|http://www.icewindmud.org/|0
+Unwritten Lands|unwritten.net|6666|http://www.unwritten.net/|0
+Unwritten Legends|www.unwritten.net|6666||0
+Sanity's Edge|mud.sanitysedge.com|2020|http://www.sanitysedge.com/|0
+Aydindril 2|redstreak.no-ip.org|4000|http://redstreak.no-ip.org:3999/~aydindril/|0
+Devil's Bob MUD (DeBo MUD) (Brasil)|debomud.org|4000|http://www.debomud.org/|0
+Paradise|paradise.muxnexus.com|5555||0
+Tempest|game.tempestmux.com|5555||0
+Dark Isles|dark-isles.com|7000|http://www.dark-isles.net/|0
+CheesyMUD|cheesymud.com|4001|http://www.cheesymud.com/|0
+Chalacyn Nights MUD|mud.chalacyn.com|1000||0
+Star Wars: Way Of The Force|wotf.org|23||0
+New Worlds|www.ateraan.com|4002||0
+Unbridled Desires|hercules.mthelicon.com|8888||0
+World of Naruto|wonmud.com|9000||0
+Tubmud|mud.tubmud.de|7680|http://www.tubmud.de/|0
+Realms of Chaos|realmsofchaos.com|3456|http://www.realmsofchaos.com/|0
+Sindome|moo.sindome.org|5555||0
+YorMUSH|yormush.com|9988||0
+The Soul Ruins|soulruins.com|5000|http://www.soulruins.com/|0
+Kerovnia|kerovnia.com|1984||0
+Rauvyon|rauvyon.com|7075|http://www.rauvyon.com/|0
+MUME - Multi Users In Middle Earth|mume.org|23||0
+FooMOO|foomoo.org|4500|http://www.foomoo.org/|0
+AnsibleMOO|ansiblemoo.org|6000|http://www.ansiblemoo.org/|0
+Mystic Adventure|mud.mystic-adventure.org|4000||0
+Areth|mud.areth.org|6000|http://www.areth.org/|0
+Corporate Expanse: From the Cradle|corpexpanse.com|7117|http://www.corpexpanse.com/cradle|0
+Gate Crashers MUX|gc.iamyourgod.org|6989||0
+StrangeMUD|strangemud.net|9332||0
+Clessidra|mud.clessidra.it|4000|http://www.c7i.ru|0
+Imperium|imperium.genesismuds.com|40000|http://imperium.genesismuds.com|0
+The Ministry|carcosa.org|6969||0
+Killer MUD|killer.mud.pl|4000|http://www.killer.mud.pl/|0
+Mega Man Mush|megamanmush.com|1997||0
+End of Time|eotmud.com|4000|http://eotmud.com|0
+The 7th Plane|7thplane.net|8888|http://7thplane.net|0
+Ronin|game.roninmud.org|5000|http://www.roninmud.org/|0
+Mordor|mordormud.net|4000||0
+KinslayerMUD|www.kinslayermud.org|2222||0
+Worlds of Carnage|wocmud.org|4000|http://www.wocmud.org/|0
+Nuclear War! MUD|nuclearwarmudusa.com|4080|http://nuclearwarmudusa.com|0
+Voregotten Realm|vore.got-game.org|8888|http://vore.got-game.org/VoregottenRealm/|0
+Castle Arcanum|castlearcanum.com|3888|http://castlearcanum.com|0
+Delphine|delphine.org|23|http://www.delphine.org/|0
+Distortion|d1st.org|23|http://d1st.org|0
+Epitaph|drakkos.co.uk|6789||0
+Fallout|FalloutMUD.org|2222|http://www.falloutmud.org/|0
+Naruto Mush: Rivalry|game.narutomush.com|7568||0
+7 Degrees of Freedom|7dof.org.uk|6715|http://7dof.org.uk/|0
+Lost in Time|lit.klfree.cz|7680|http://lit.klfree.cz/|0
+OuterSpace|mud.stack.nl|3333||0
+Split Infinity|splitinf.org|4000||0
+Astaria|astaria.net|23|http://astaria.net/|0
+NarniaMUCK|muck.narniamuck.org|2050|http://narniamuck.org|0
+Simauria|mud.simauria.org|23||0
+Cult of Man: Southern Cross|sc.scworlds.net|4321|http://scross.homeip.net/wiki/|0
+Coast of Seven Incarnations|mud.c7i.ru|4000|http://www.c7i.ru|0
+GinkoMud|ginkosoft.com|8898||0
+RetroMUD|retromud.org|3000|http://www.retromud.org/|0
+Shattered Isles|shatteredisles.com|5900|http://www.shatteredisles.com|0
+Dragons Spine|www.dragonsspine.com|3000|http://www.dragonsspine.com/|0
+GarouMUSH|garoumush.org|7000|http://www.GarouMUSH.org/|0
+Frandum|frandum.fr|2001|http://www.frandum.fr|0
+Asylum|asylum-mud.org|6715|http://www.asylum-mud.org/|0
+The Eternal Forest|eternalforest.net|9000|http://www.eternalforest.net|0
+Rebirth of Apocalypse|apoc.godwars.net|6660|http://www.apoc.godwars.net/|0
+Rupert|rupert.twyst.org|9040||0
+Covenant|tierceron.com|1685|http://www.tierceron.com/mud/index.php|0
+Abandoned Codex|abandonedcodex.net|4000|http://www.abandonedcodex.net/|0
+Otherworld, the realm of Tirn Aill|tirnaill.com|4000||0
+Anarres II|mudlib.anarres.org|5000|http://www.anarres.org/projects/mud/|0
+Terminus Faire|terminus.mushpark.com|9999||0
+Cleft of Dimension|cleftofdimension.com|9000|http://www.cleftofdimension.com|0
+Cosmic Cuttlefish|mush.CosmicCuttlefish.org|8178|http://www.CosmicCuttlefish.org|0
+Nirvana|nirvana.beanos.com|3500|http://nirvana.beanos.com/|0
+Deckeon|deckeon.mine.nu|2065|http://www.deckeon.net/|0
+Star Conquest|squidsoft.net|7777||0
+MULTI MUD!|multimud.net|4242||0
+JediMUD|jedimud.com|4000||0
+Realmsmud|realmsmud.org|1501|http://realmsmud.org|0
+Zebedee|www.zebedee.org|7000|http://www.zebedee.org/|0
+The Builder Academy|tbamud.com|9091|http://www.tbamud.com/|0
+Realms of Despair|realmsofdespair.com|4000|http://www.realmsofdespair.com/|0
+SchMOOze University|schmooze.hunter.cuny.edu|8888||0
+The Adventurers' Inn|theadventurersinn.com|7171|http://www.theadventurersinn.com/|0
+IgorMUD|igormud.org|1701||0
+KitsuMUCK|kitsumuck.com|8888||0
+Arcadia|mud.arcadia.net|4000|http://arcadia.net/|0
+Isengard|isengard.nazgul.com|4040|http://isengard.nazgul.com/|0
+Dark Gift|darkgift.mushpark.com|6251||0
+Ragnarok|rag.com|2222|http://www.rag.com/|0
+Elysium RPG|elysium-rpg.com|7777||0
+The Inquisition|theinquisition.org|5050|http://theinquisition.org/|0
+Twilight|twilight.tigerden.com|6010||0
+Shadows of Isildur RPI - Lord of the Rings MUD|middle-earth.us|4500|http://www.middle-earth.us/|0
+Myrradel|myrradel.com|4000|http://www.myrradel.com/|0
+Ensimud|ensimud.net|4500||0
+Tauros|taurosmud.com|5005||0
+Miriani|toastsoft.net|1234||0
+Aaezure Odyssey|amud.kicks-ass.org|1111|http://myst.home.comcast.net/amud/|0
+PowerMud|powermud.com|2000|http://www.powermud.com/|0
+Shattered World|shattered.org|23|http://www.shattered.org/|0
+Fantasy Moon|galaxy.silvren.com|2900|http://fantasymoon.spodzone.com|0
+The Land|theland.notroot.com|5000||0
+Legends of the Darkstone|www.darkstonemud.com|5432||0
+WolvesBane Rock|wbr.tamarisk.ab.ca|6000||0
+FieryMUD|fierymud.org|4000|http://www.fierymud.org/|0
+FeatherMUCK|feathermuck.avians.net|8888|http://www.avians.net/feathermuck/|0
+Dark Mists|darkmists.org|2222|http://www.darkmists.org/|0
+The Minds Eye|mudrealms.dyndns.org|3333||0
+Pawn of Prophecy|mud.prophecy.lu|4000|http://www.mud.lu/|0
+LegendMUD|mud.legendmud.org|9999||0
+Arda MUD|arda.pp.ru|7000|http://www.arda.pp.ru|0
+SlothMud|slothmud.org|6101|http://www.slothmud.org/|0
+Big Damn MUSH :: Be a Hero|bigdamn.com|7777|http://www.bigdamn.com|0
+Arion: the Nightmare|carlnet.ee|4000|http://arion.hyena.pri.ee/logstation|0
+Mortal Realms|game.mortalrealms.com|4321||0
+Continents Mud|continentsmud.com|5050|http://www.continentsmud.com/|0
+The Edge of Darkness|eod.ath.cx|2001||0
+DragonBall: Infinity|dbinfinity.bounceme.net|4000|http://dbinfinity.bounceme.net|0
+Eaxia Online Gaming Service|game.eaxia.com|347|http://www.eaxia.com/|0
+Zee MUD|mud.zeemud.org|4000||0
+Pendulus|mud.pendulus.org|1536|http://www.pendulus.org/|0
+Dawn of Demise|tdod.org|4000|http://tdod.org/|0
+The Gathering|gathering.org.uk|5000|http://www.gathering.org.uk/|0
+DarkeMud|live.darkemud.com|5559||0
+Silmaril|silmaril.novacomp.it|4000||0
+Mirrors of the Wheel|mirrorsmud.net|2222|http://mirrorsmud.net/|0
+Dead Souls Prime|dead-souls.net|6666|http://dead-souls.net/|0
+Sleepless Nights|sleepless.cheese.org|6789|http://www.sleepless.cheese.org/|0
+Safekeep|omen.genesismuds.com|4200||0
+Lumen et Umbra|mclmud.mclink.it|6000|http://www.leu.it/|0
+Beyond the Veil of Shadows|btvos.wolfpaw.net|9000|http://btvos.wolfpaw.net/index.html|0
+JipangMuck|jipangmuck.dynodns.net|1864||0
+Dark City|darkcity.godwars.net|3000|http://www.godwars.net|0
+Nanvaent|nanvaent.org|23||0
+Armageddon MUD|ginka.armageddon.org|4050|http://www.armageddon.org/intro/adpage.html|0
+Age of Dragons|ageofdragons.com|4000|http://ageofdragons.com|0
+Star Wars: Chronicles|swchronicles.com|4000|http://swchronicles.com/|0
+Epoch|coldc.com|5190|http://coldc.com/epoch|0
+AddictMUD|addictmud.org|4000|http://addictmud.org|0
+Aragond: The Chronicles|aragond.com|9000||0
+PixieMUD|mud.pixiemud.org|6789||0
+Escape from Destiny|escape.wolfpaw.net|2020|http://escape.wolfpaw.net|0
+Warlock|warlock.pl|23||0
+Abysmal Realms|realms.reichel.net|4000|http://realms.reichel.net/|0
+The Underworld|mud.theuw.net|5000||0
+Luminari MUD|LuminariMUD.com|4100|http://www.LuminariMUD.com|0
+Legend of the Red Dragon|lord.stabs.org|23|http://lord.stabs.org|0
+Earth Fifty Ten|orcs.biz|5010||0
+CLOK|clok.contrarium.net|4000|http://wiki.contrarium.net|0
+A Kind of Magic MUSH|mindgames-studio.com|3201||0
+Lords of War 4.0|moemuds.com|5335||0
+Echoes in Time|moemuds.com|5334||0
+Isle of Wight|catnation.com|1234||0
+QuarantineMUD: Chronicles|connect.qmud.org|5000||0
+SneezyMUD|play.sneezymud.com|7900|http://www.sneezymud.com/|0
+T-Mush|drigon.com|4201||0
+Haven|mud.havenmud.com|4000||0
+Daedal Macabre|daedal-macabre.org|9000|http://daedal-macabre.org/|0
+Dead of Night|deadofnight.org|5000|http://www.deadofnight.org/|0
+Star Wars: Insurgency|mud.fox-developments.co.uk|6100||0
+Ishar|ishar.com|9999|http://www.ishar.com/|0
+Weyrmount II|moo.weyrmount.org|8000||0
+Primordiax|primordiax.com|3000||0
+STAR WARS: AGE OF ALLIANCES|Starwars.Xidus.Net|5500||0
+Balderdash|mud.khakassia.ru|9000|http://mud.khakassia.ru|0
+TrollAttack|trollattack.com|4000||0
+Midpoint Void|vor.midpointvoid.net|7777||0
+Everwar Redux|104.131.227.160|4242||0
+Kallindor|mud.kallindor.org|5800|http://kallindor.org|0
+The Isles NiMUD|orcs.biz|9999|http://orcs.biz|0
+MUD2|mud2.com|27723|http://mud2.com|0
+Somnium|somnium.contrarium.net|4000|http://somnium.contrarium.net|0
+Shadowgate (please note - updated from firedragon.com!)|shadowgate.org|4016|http://www.shadowgate.org|0
+The Isles V2|orcs.biz|2000||0

@@ -1,0 +1,840 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "../../../www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<title>mudconnect.com: The Mud Connector - Mud and RPG game index, mudlist and reviews</title>
+<META NAME="keywords" VALUE="Mud Connector, Mud, Mudding, Multi-Player, Roleplaying, Online Gaming, Games, Mud Games, MMORPG, Mudlist, Mud List, Virtual">
+<META NAME="description" VALUE="The Mud Connector is a free service for locating multi-user games (MUDs) on the internet (mudlist). We currently offer over 1000+ mud listings, discussion boards, game reviews, resource links, random mud picker, and a comprehensive search engine system. TMC has links to roleplaye games, combat oriented games and mixes of both, we also list MMORPG and graphical-based mud games.">
+<META NAME="author" VALUE="Andrew Cowan">
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="stylesheet" href="/css/tmc.css" type="text/css">
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/ie6.css" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/ie7.css" type="text/css">
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/ie8.css" type="text/css">
+<![endif]-->
+
+<!-- Javascript Declarations Section -->
+
+<script type="text/javascript">
+<!--
+
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function hl_anewsbg( dname ){
+   var anews = document.getElementById( dname );
+   anews.style.cssText = 'margin-top: 7px; padding: 1em; background: #300; border: 1px dotted #fff;';
+}
+
+function reset_anewsbg( dname ){
+   var anews = document.getElementById( dname );
+   if ( dname == 'anews5' ){
+      anews.style.cssText = 'margin-top; 7px; padding: 1em; background: #000; border-bottom: none;';
+   }else{
+      anews.style.cssText = 'margin-top; 7px; padding: 1em; background: #000; border-bottom: 1px dotted #fff;';
+   }
+}
+
+function set_memberBox( text ){
+   var mbox = document.getElementById("memberBox");
+   mbox.innerHTML = text;
+}
+
+function detectBrowser() { 
+    var BO = new Object(); 
+    BO["ie"]        = false /*@cc_on || true @*/; 
+    BO["ie4"]       = BO["ie"] && (document.getElementById == null); 
+    BO["ie5"]       = BO["ie"] && (document.namespaces == null) && (!BO["ie4"]); 
+    BO["ie6"]       = BO["ie"] && (document.implementation != null) && (document.implementation.hasFeature != null); 
+    BO["ie55"]      = BO["ie"] && (document.namespaces != null) && (!BO["ie6"]); 
+    /*@cc_on
+    BO["ie7"] = (BO["ie"] && document.implementation != null && document.compatMode != null && window.XMLHttpRequest != null);
+    @*/ 
+    BO["ns4"]       = !BO["ie"] &&  (document.layers != null) &&  (window.confirm != null) && (document.createElement == null); 
+    BO["opera"]     = (self.opera != null); 
+    BO["gecko"]     = (document.getBoxObjectFor != null); 
+    BO["khtml"]     = (navigator.vendor == "KDE"); 
+    BO["konq"]      = ((navigator.vendor == 'KDE') || (document.childNodes) && (!document.all) && (!navigator.taintEnabled)); 
+    BO["safari"]    = (document.childNodes) && (!document.all) && (!navigator.taintEnabled) && (!navigator.accentColorName); 
+    BO["safari1.2"] = (parseInt(0).toFixed == null) && (BO["safari"] && (window.XMLHttpRequest != null)); 
+    BO["safari2.0"] = (parseInt(0).toFixed != null) && BO["safari"] && !BO["safari1.2"]; 
+    BO["safari1.1"] = BO["safari"] && !BO["safari1.2"] && !BO["safari2.0"]; 
+    return BO; 
+} 
+
+function isNumeric(sText){
+   var ValidChars = "0123456789.";
+   var IsNumber=true;
+   var Char;
+ 
+   for (i = 0; i < sText.length && IsNumber == true; i++) {
+      Char = sText.charAt(i); 
+      if (ValidChars.indexOf(Char) == -1) {
+         IsNumber = false;
+      }
+   }
+   return IsNumber;
+}
+
+function set_middleheight(){
+   var NS = document.all;
+   var agent = navigator.userAgent;
+   var browser = detectBrowser();
+
+   
+   //alert( 'content.height:' + document.getElementById("content").style.height );
+
+   var h1 = window.innerHeight;
+   var h2 = document.body.clientHeight;
+   var h3 = document.documentElement.clientHeight;
+   var h_adj;
+
+   //alert( 'browser:' + browser["gecko"] );
+   //alert( 'h1: ' + h1 + ' h2:' + h2 + ' h3:' + h3 );
+
+   if ( ( typeof( h1 ) != "undefined" ) && ( typeof( h2 ) != "undefined" ) ){
+      if ( h1 > h2 )
+         h_adj = h1;
+      else
+         h_adj = h2;
+      //alert( 'h: ' + h_adj );
+   }else if ( typeof( h1 ) != "undefined" ){
+      h_adj = h1;
+      //alert( 'h: ' + h_adj );
+   }else if ( typeof( h2 )  != "undefined" ){
+      h_adj = h2;
+      //alert( 'ht2: ' + h_adj );
+   }
+
+   //if ( browser["ie7"] ) h_adj = h_adj * 2;
+   //alert( 'ht: ' + h_adj );
+
+   document.getElementById("middlewrap").style.height = h_adj - 65 + 'px';
+   document.getElementById("middle").style.height = h_adj - 55 + 'px';
+   document.getElementById("content").style.height = h_adj - 55 + 'px';
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+<div id="headerwrap">
+<div id="header">
+   
+<div id="TMClogolink"><a href="/index.html"><img src="/HeaderImages/TMClogoLink.gif" width="154" height="75"></a></div>
+<div id="bigMClink"><a href="/index.html"><img src="/HeaderImages/bigMClink.gif" width="344" height="25"></a></div>
+<div id="littleMClink"><a href="/index.html"><img src="/HeaderImages/littleMClink.gif" width="176" height="12"></a></div>
+ 
+		
+<div id="headerContentsButton" onMouseOver="MM_showHideLayers('headerContentsFlyout','','show')" onMouseOut="MM_showHideLayers('headerContentsFlyout','','hide')">
+<a href="/contents.html" class="rollover1"></a>
+</div>
+
+<div id="headerContentsFlyout" onMouseOver="MM_showHideLayers('headerContentsFlyout','','show')" onMouseOut="MM_showHideLayers('headerContentsFlyout','','hide')">
+<ul>
+<li><a href="/index.html">TMC Home</a></li>
+<li><a href="/contents.html">Table of Contents</a></li>
+<li><a href="/sitemap.html">Sitemap</a></li>
+<li><a href="/whatsnew.html">What's New</a></li>
+<li><a href="/mud_intro.html">Mud Intro</a></li>
+<li><a href="/tmcfaq.html">The TMC Faq</a></li>
+<li><a href="/articles/">Articles</a></li>
+<li><a href="/affiliates">Affiliates</a></li>
+</ul>
+</div>
+
+<div id="headerListingsButton" onMouseOver="MM_showHideLayers('headerListingsFlyout','','show')" onMouseOut="MM_showHideLayers('headerListingsFlyout','','hide')">
+<a href="/mud_listings.html" class="rollover2"></a>
+</div>
+
+<div id="headerListingsFlyout" onMouseOver="MM_showHideLayers('headerListingsFlyout','','show')" onMouseOut="MM_showHideLayers('headerListingsFlyout','','hide')">
+<ul>
+<li><a href="/cgi-bin/submit.cgi">Add / Edit Listing</a></li>
+<li><a href="/top10.html">Top 10 Muds</a></li>
+<li><a href="/mud_listings.html">Alphabetical</a></li>
+<li><a href="/mud_category.html">Categorical</a></li>
+<li><a href="/cgi-bin/mud_random.cgi">Random Mud Pick</a></li>
+<li><a href="/reviews">Mud Reviews</a></li>
+<li><a href="/mud_graphical.html">Graphical Muds</a></li>
+</ul>
+</div>
+
+<div id="headerSearchButton" onMouseOver="MM_showHideLayers('headerSearchFlyout','','show')" onMouseOut="MM_showHideLayers('headerSearchFlyout','','hide')">
+
+<a href="/mud_search.html" class="rollover3"></a>
+</div>
+
+<div id="headerSearchFlyout" onMouseOver="MM_showHideLayers('headerSearchFlyout','','show')" onMouseOut="MM_showHideLayers('headerSearchFlyout','','hide')">
+<ul>
+<li><a href="/mud_search.html">Mud Search</a></li>
+<li><a href="/adv_search.html">Advanced Search</a></li>
+<li><a href="/mud-bin/mud_search.cgi?Mode=NEW">New Listings</a></li>
+<li><a href="/mud-bin/mud_search.cgi?Mode=UPDATE">Updated Listings</a></li>
+</ul>
+</div>
+
+<div id="headerCommunityButton" onMouseOver="MM_showHideLayers('headerCommunityFlyout','','show')" onMouseOut="MM_showHideLayers('headerCommunityFlyout','','hide')">
+<a href="/discuss/discuss.cgi" class="rollover4"></a>
+</div>
+
+<div id="headerCommunityFlyout" onMouseOver="MM_showHideLayers('headerCommunityFlyout','','show')" onMouseOut="MM_showHideLayers('headerCommunityFlyout','','hide')">
+<ul>
+<li><a href="/member">Members Index</a></li>
+<li><a href="/discuss">Discussions</a></li>
+<li><a href="/mud-bin/new_prev/search.cgi">Player Reviews</a></li>
+</ul>
+</div>
+
+<div id="headerResourcesButton" onMouseOver="MM_showHideLayers('headerResourcesFlyout','','show')" onMouseOut="MM_showHideLayers('headerResourcesFlyout','','hide')">
+<a href="/resources" class="rollover5"></a>
+</div>
+
+<div id="headerResourcesFlyout" onMouseOver="MM_showHideLayers('headerResourcesFlyout','','show')" onMouseOut="MM_showHideLayers('headerResourcesFlyout','','hide')">
+<ul>
+<li><a href="/resources">TMC Resources</a></li>
+<li><a href="/fmud/">Flash Telnet Client</a></li>
+<li><a href="/tmc">Advertise on TMC</a></li>
+<li><a href="/contact.html">Contact TMC</a></li>
+<li><a href="http://www.wolfpaw.net/" target="res">Wolfpaw Services</a></li>
+<li><a href="/mudfaq">The Mud Faq</a></li>
+</ul>
+</div>
+
+<div id="memberBox">
+<div id="memberBoxInner">
+</div>
+</div>
+
+</div>
+</div>
+
+<!-- TMC Header Ends -->
+
+
+<script language="javascript">
+set_memberBox("<center><b>Member Login</b><br /><small>You are not logged in</small><br /><a href='/cgi-bin/member/login_front.cgi'>Login</a> | <a href='/cgi-bin/member/signup.cgi'>Signup</a></center>");
+</script>
+
+
+<div id="middlewrap">
+<div id="middle">
+<div id="content">
+
+
+<style type="text/css">
+<!--
+/*
+div.box {
+   border: solid;
+   border-width: thin;
+   #padding: 0.5em;
+   padding: 0em;
+   width: 600;
+   margin-left: 1em;
+   margin-right: 1em;
+   margin-top: 0em;
+   margin-bottom: 1em;
+}
+
+span.label{
+   font-family: times;
+   font-size: 14px;
+   font-weight: bold;
+}
+*/
+-->
+</style>
+
+
+<br />
+
+
+<center>
+<div id="adbar">
+<!-- BEGIN: AD -->
+<!-- load_impressions_day() T=(2010-07-30) -->
+<!-- Item: --Default-- (type: 1) -->
+<!-- Item: Search10K (type: 1) -->
+<!-- Item chosen: GROUP : Search10K -->
+<!-- AD TO DISPLAY: Retro1 -->
+<a href="http://www.mudconnect.com/cgi-bin/new_ams/ams_ssi.cgi?mode=REDIR&ad=Retro1" target="New"><img border=0 src="/ads/retroban3.gif" alt="Visit Retro Mud" ></a> 
+
+<!-- END: AD -->
+<br>
+<font size=-1>Please help support TMC by visiting our sponsor</font>
+</adbar>
+</center>
+
+<br><p>
+
+ 
+
+<center>
+<div style="width: 800px; border: solid 1px; padding: 1em; overflow: auto; background: #333;">
+
+<table border=0 cellpadding=8 cellspacing=0>
+
+<tr><td colspan='3' valign=top align='center'>
+<font size=+2 color='peru'>
+<em>The Gathering</em>
+</font>
+<br />
+<hr width=75%>
+
+</td></tr>
+<tr><td width='170' align='center' valign='top'>
+
+<img border='1' src='/images/no_small_logo.gif'><br />
+
+</td><td align='left' valign='top'>
+<font size=-1>
+
+<div style='margin-top: -1.2em; padding-left: 0.5em;'>
+
+<br><a href='/cgi-bin/all_rankings.cgi' title="The Mud Connector: Rankings for all muds">TMC rank:</a> 164 <br>
+updated: April 17, 2009<br /> 
+
+created: June, 1992<br />
+
+codebase: [Unknown] Gatherer <br/>
+site: gathering.org.uk 5000 [212.13.204.181] <br/>
+email: <a href="mailto:admin (at) gathering (dot) org (dot) uk">admin (at) gathering (dot) org (dot) uk</a><br />
+
+theme: Social , Chat , Talker <br/>
+
+<hr style="width: 200px; padding: -2px; margin: 1em; color:#fff; border:1px dotted; border-bottom: none;">
+
+
+<font size=-1>
+<a href='http://www.mudconnect.com/fmud/?host=gathering.org.uk&port=5000'><font size=+1>Connect and Play Now</a></font><br /><br />
+<a href="http://www.mudconnect.com/mud-bin/check_mud.cgi?mud=The+Gathering&site=gathering.org.uk&port=5000" TARGET="Check_Window" title="The Mud Connector: Check mud connection to The Gathering">check: connection</a> <br>
+<a href="http://www.mudconnect.com/mud-bin/telnet.cgi?mud=The+Gathering&url=telnet://gathering.org.uk:5000" target="External" title="The Mud Connector: Connect to The Gathering">telnet: The Gathering</a> <br>
+<a href="http://www.mudconnect.com/mud-bin/redirect.cgi?mud=The+Gathering&url=http://www.gathering.org.uk/" target="External" title="The Mud Connector: Visit homepage of The Gathering">homepage: The Gathering</a> <br>
+<a href="http://www.mudconnect.com/mud-bin/mud_stats.cgi?mud=The+Gathering" target="New Window" title="The Mud Connector: Statistics for The Gathering">statistics: The Gathering</a>
+<br><a href="http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=The+Gathering" target="TMC Vote" title="The Mud Connector: Vote for mud - The Gathering">vote: The Gathering</a>
+
+
+<br><a href="http://www.mudconnect.com/mud-bin/prev/submit.cgi?mud=The+Gathering"
+            target="New Window" title="The Mud Connector: Submit a review for The Gathering">submit: player review</a>
+</font>
+</div>
+</font>
+
+<td valign=top rowspan="2" align=left>
+<div style="border: solid 1px; padding: 1em; overflow: auto; background: #300; font-size: 14px; font-weight: normal; ">
+
+<font face='Times'>Location:</font> United Kingdom<br />
+<font face='Times'>Primary Language:</font> English<br />
+<font face='Times'>Minimum Players:</font> Under 10<br />
+<font face='Times'>Multi-Play:</font> No<br />
+<hr style="padding: -2px; margin: 1em; color:#fff; border-top: 1px dotted; border-bottom: none;">Level-less System<br />Class-less System<br />Character Approval Unnecessary<br />Ansi Color<br />Non-Roleplaying Mud<br />Newbie friendly<br />World is all original<br />Mud is fully operational<br /> <br />
+</div>
+
+</td></tr>
+<tr><td colspan=2 valign='top' align=left>
+
+<pre>
+   The Gathering is one of the oldest talkers still running.
+It is based around groups rather than rooms and to improve
+the experience, users can be in several groups at the same
+time.  This enables you to chat in one of the public groups,
+chat privately with friends or loved ones and discuss your
+favourite band with a group of fans.
+
+Unlike most talkers, there are no staff to manage
+interpersonal disputes.  Instead, users are given the power
+to protect themselves from verbal attack - even going as far as
+being able to ban other users.
+
+Combined with both these features are all the standard facilities     
+you expect from a modern talker - mail, news, games, ANSI color - 
+making it a fun and enjoyable play to chat for everyone.
+</pre>
+
+<a href='/cgi-bin/report.cgi?DIRECT=1&mud=The+Gathering'>report listing problems</a>
+</td></tr>
+</table>
+</div>
+</center>
+
+
+
+<p><hr width=80%><p>
+
+<center>
+<form method="POST" action="/mud-bin/adv_search.cgi">
+<input type="hidden" name="Mode" value="ADVANCED">
+<table border=0 cellspacing=3 cellpadding=3>
+<tr><td colspan=2 align="center">
+<font size=-1>
+
+<center>
+<b>Advanced Search:</b> Keyphrase Options
+<br><br>
+</center>
+
+Search Mode:
+<input  type="radio" name="key_mode" value="PHRASE"> Phrase
+<input  type="radio" name="key_mode" value="AND"> All keywords
+<input  type="radio" name="key_mode" value="OR"> Any keywords <br>
+<input  type="checkbox" name="theme_only" value="1">
+Search for keyphrase in 'theme' field only
+
+</font>
+</td></tr>
+</table>
+</td></tr>
+<tr><td colspan=2 nowrap align="center">
+<font size=-1>
+
+<b>Keyphrase:</b> <input type="text" name="String" value="" size="35">
+<Input type="submit" value="  Search!  ">
+<Input type="submit" name="Mode" value="HELP">
+
+</font>
+</td></tr>
+<tr><td colspan=2 align=center>
+<br><p><hr width=70%><br>
+
+<font size=-1>
+<u>Basic Options</u>
+</font>
+
+<br><br>
+
+</td></tr>
+<tr><td valign=top align=center colspan=2>
+
+<table border=0>
+<tr><td width=125>
+
+<font size=-1>
+<nobr>
+<b>Select a server type:</b><br>
+<select multiple size="4" name="base">
+<option  value="CUSTOM"> Custom Codebase
+<option  value="NONE"> Any Code Base
+<option  value="ACK!"> ACKmud
+<option  value="ABER"> AberMUD
+<option  value="AFKMud"> AFKMud
+<option  value="Chronicles"> Chronicles
+<option  value="CIRCLE"> Circlemud 
+<option  value="CoffeeMud"> CoffeeMud 
+<option  value="Dawn"> Dawn
+<option  value="DIKU"> DikuMUD  
+<option  value="DIKU II"> Diku II
+<option  value="DUM"> DUM
+<option  value="EMBER"> Embermud 
+<option  value="EMLEN"> Emlenmud 
+<option  value="ENVY"> Envy  
+<option  value="EOS"> Eye of the Storm 
+<option  value="GODWARS"> GodWars 
+<option  value="HEAVY"> Heavymud
+<option  value="LP"> LP Mud
+<option  value="MERC"> Merc
+<option  value="MOO"> MOO
+<option  value="MORDOR"> Mordor 
+<option  value="MUCK"> MUCK
+<option  value="MUSE"> MUSE
+<option  value="MUSH"> MUSH
+<option  value="MUX"> MUX
+<option  value="OBLIVION"> Oblivion 
+<option  value="ResortMUD"> ResortMUD
+<option  value="ROM"> ROM
+<option  value="ROT"> ROT
+<option  value="SILLY"> Silly 
+<option  value="SMAUG"> SMAUG 
+<option  value="SWR"> SWR
+<option  value="TBA"> tbaMUD
+<option  value="TFE"> The Forests Edge
+</select>
+</nobr>
+</font>
+
+</td><td width=125>
+<font size=-1>
+
+<b>Select a location:</b><br>
+<select multiple size="4" name="location">
+<option  value="NONE"> Any Location
+<option  value="at"> Austria
+<option  value="au"> Australia
+<option  value="be"> Belgium
+<option  value="br"> Brazil
+<option  value="ca"> Canada
+<option  value="cr"> Czech Republic
+<option  value="cl"> Chile
+<option  value="co"> Croatia 
+<option  value="dk"> Denmark
+<option  value="ee"> Estonia 
+<option  value="fi"> Finland
+<option  value="fr"> France
+<option  value="de"> Germany
+<option  value="gr"> Greece
+<option  value="hu"> Hungary 
+<option  value="in"> India
+<option  value="ir"> Ireland
+<option  value="it"> Italy
+<option  value="jp"> Japan
+<option  value="lt"> Latvia
+<option  value="lu"> Luxemburg 
+<option  value="my"> Malaysia
+<option  value="mx"> Mexico
+<option  value="nl"> Netherlands
+<option  value="nz"> New Zealand
+<option  value="no"> Norway
+<option  value="pl"> Poland 
+<option  value="pt"> Portugal
+<option  value="ro"> Romania 
+<option  value="rs"> Russia
+<option  value="sg"> Singapore
+<option  value="sk"> Slovakia
+<option  value="si"> Slovenia
+<option  value="za"> South Africa
+<option  value="es"> Spain
+<option  value="se"> Sweden
+<option  value="ch"> Switzerland
+<option  value="tr"> Turkey
+<option  value="ua"> Ukraine
+<option  value="uk"> United Kingdom
+<option  value="us"> USA
+<option  value="yu"> Yugoslavia
+</select>
+</font>
+
+</td><td width=125>
+<font size=-1>
+
+<b>Select a language:</b> <br>
+<select multiple name="language" size=4>
+<option  value="NONE"> Any Language
+<option  value="en"> English
+<option  value="es"> Estonian 
+<option  value="cr"> Czech
+<option  value="da"> Danish
+<option  value="du"> Dutch
+<option  value="fr"> French
+<option  value="ge"> German
+<option  value="gk"> Greek
+<option  value="hu"> Hungarian
+<option  value="it"> Italian
+<option  value="la"> Latin
+<option  value="jp"> Japanese
+<option  value="po"> Polish
+<option  value="pt"> Portuguese
+<option  value="ru"> Russian
+<option  value="sk"> Slovak 
+<option  value="sp"> Spanish
+<option  value="se"> Swedish
+<option  value="tk"> Turkish 
+</select>
+</font>
+
+</td></tr>
+</table>
+
+
+</td></tr>
+<tr><td colspan=2 align=left>
+<table border=0 cellspacing=2 cellpadding=2>
+<tr><td nowrap align=left valign=top>
+<font size=-1>
+
+[<input  type="checkbox" name="not_options" value="MR"> Not] 
+<input  type="checkbox" name="options" value="MR"> Extended race selection <br>
+[<input  type="checkbox" name="not_options" value="MO"> Not] 
+<input  type="checkbox" name="options" value="MO"> Extended class selection <br>
+[<input  type="checkbox" name="not_options" value="MC"> Not] 
+<input  type="checkbox" name="options" value="MC"> Multi-classing allowed  <br>
+[<input  type="checkbox" name="not_options" value="AC"> Not] 
+<input  type="checkbox" name="options" value="AC"> Free Character Creation  <br>
+[<input  type="checkbox" name="not_options" value="QU"> Not] 
+<input  type="checkbox" name="options" value="QU"> Quests available <br>
+[<input  type="checkbox" name="not_options" value="NB"> Not]
+<input  type="checkbox" name="options" value="NB"> Newbie Friendly <br>
+[<input  type="checkbox" name="not_options" value="PU"> Not]
+<input  type="checkbox" name="options" value="PU"> Supports/uses Pueblo <br>
+[<input  type="checkbox" name="not_options" value="BI"> Not]
+<input  type="checkbox" name="options" value="BI"> Currently Hiring Builders <br>
+[<input  type="checkbox" name="not_options" value="CL"> Not]
+<input  type="checkbox" name="options" value="CL"> Clans Offered <br>
+[<input  type="checkbox" name="not_options" value="NO"> Not]
+<input  type="checkbox" name="options" value="NO"> <font size=-2>Under Construction<br>(Not open to the public for play)</font> <br>
+[<input  type="checkbox" name="not_options" value="CP"> Not]
+<input  type="checkbox" name="options" value="CP"> Supports/uses MCCP<br>
+[<input  type="checkbox" name="not_options" value="CF"> Not]
+<input  type="checkbox" name="options" value="CF"> Player Crafting <font color='red'>New</font> <br>
+
+</font>
+</td><td align=left valign=top nowrap>
+<font size=-1>
+
+<!--
+[<input  type="checkbox" name="not_options" value="RP"> Not] 
+<input  type="checkbox" name="options" value="RP"> Roleplaying is required <br>
+-->
+[<input  type="checkbox" name="not_options" value="ED"> Not] 
+<input  type="checkbox" name="options" value="ED"> Educational mud <br>
+[<input  type="checkbox" name="not_options" value="RS"> Not]
+<input  type="checkbox" name="options" value="RS"> Research oriented <br>
+[<input  type="checkbox" name="not_options" value="CO"> Not] 
+<input  type="checkbox" name="options" value="CO"> Ansi Color Used <br>
+[<input  type="checkbox" name="not_options" value="PP"> Not] 
+<input  type="checkbox" name="options" value="PP"> Pay to play <br>
+[<input  type="checkbox" name="not_options" value="AD"> Not]
+<input  type="checkbox" name="options" value="AD"> Adult-Oriented Material <br>
+[<input  type="checkbox" name="not_options" value="RE"> Not]
+<input  type="checkbox" name="options" value="RE"> Equipment Saved <br>
+[<input  type="checkbox" name="not_options" value="CI"> Not]
+<input  type="checkbox" name="options" value="CI"> Currently Hiring Coders <br>
+[<input  type="checkbox" name="not_options" value="CC"> Not]
+<input  type="checkbox" name="options" value="CC"> Detailed Char Creation <br>
+[<input  type="checkbox" name="not_options" value="LY"> Not]
+<input  type="checkbox" name="options" value="LY"> Leveless System <br>
+[<input  type="checkbox" name="not_options" value="CY"> Not]
+<input  type="checkbox" name="options" value="CY"> Classless System <br>
+[<input  type="checkbox" name="not_options" value="XP"> Not]
+<input  type="checkbox" name="options" value="XP"> Supports/uses MXP <br>
+[<input  type="checkbox" name="not_options" value="SP"> Not]
+<input  type="checkbox" name="options" value="SP"> Supports/uses MSP <br>
+[<input  type="checkbox" name="not_options" value="CT"> Not]
+<input  type="checkbox" name="options" value="CT"> Player Cities <font color='red'>New</font> <br>
+
+
+</font>
+</td></tr>
+<tr><td colspan=2>
+<font size=-1>
+
+<br><p><hr width=70%><br>
+
+<center>
+<u>Player-kill and Multi-Play Options</u>
+</center>
+<br>
+
+[<input  type="checkbox" name="not_mplay_ok" value="1"> Not]
+<input  type="checkbox" name="mplay_ok" value="1">
+Restrict search to muds allowing limited or full <b>Multi-playing</b><br>
+[<input  type="checkbox" name="not_pk_ok" value="1"> Not]
+<input  type="checkbox" name="pk_ok" value="1">
+Restrict search to muds allowing restricted or full <b>Player-killing</b><br>
+[<input  type="checkbox" name="not_pk_pure" value="1"> Not]
+<input  type="checkbox" name="pk_pure" value="1">
+Restrict search to <b>Pure Player-killing</b> muds<br>
+
+<p><hr width=70%><br>
+
+</font>
+</td></tr>
+<tr><td colspan=2 align=center>
+<font size=-1>
+
+<u>Training and Equipment System Options</u>
+<br><br>
+
+</font>
+</td></tr>
+<tr><td>
+<font size=-1>
+
+<input  type="checkbox" name="options" value="LS"> Level-Based Training System <br>
+<input  type="checkbox" name="options" value="SS"> Skill-Based Training System <br>
+<input  type="checkbox" name="options" value="BS"> Skill & Level-Based Training System <br>
+
+</font>
+</td><td>
+<font size=-1>
+
+<input  type="checkbox" name="options" value="LE"> Level-Based Equipment System <br>
+<input  type="checkbox" name="options" value="SE"> Skill-Based Equipment System <br>
+<input  type="checkbox" name="options" value="BE"> Skill & Level-Based Equipment System <br>
+
+</font>
+</td></tr>
+<tr><td colspan=2>
+<font size=-1>
+
+<br><p><hr width=80%><br>
+
+<center>
+<u>World Size/Originality Options</u>
+</center>
+<br>
+
+</td></tr>
+<tr><td valign=top>
+<font size=-1>
+
+<input  type="checkbox" name="options" value="WS"> Small World (under 3,000 rooms) <br>
+<input  type="checkbox" name="options" value="WM"> Medium World (3,000+ rooms) <br>
+<input  type="checkbox" name="options" value="WL"> Large World (8,000+ rooms) <br>
+<input  type="checkbox" name="options" value="WH"> Huge World (15,000+ rooms) <br>
+
+</td><td valign=top>
+<font size=-1>
+
+<input  type="checkbox" name="options" value="W1"> All Original <br>
+<input  type="checkbox" name="options" value="W2"> Mostly Original <br>
+<input  type="checkbox" name="options" value="W3"> Mostly Stock <br>
+<input  type="checkbox" name="options" value="W4"> All Stock <br>
+
+</td></tr>
+
+<tr><td colspan=2>
+
+<br><p><hr width=80%><br>
+
+<font size=-1>
+<center>
+<u>Choose a Roleplaying Model</u>
+</center>
+<br>
+
+</td></tr>
+<tr><td>
+
+<font size=-1> 
+<input  type="checkbox" name="options" value="NRP"> Non-Roleplaying Mud <br>
+<input  type="checkbox" name="options" value="RP"> Roleplaying is Accepted <br>
+
+</td><td>
+
+<font size=-1> 
+<input  type="checkbox" name="options" value="RP2"> Roleplaying is Encouraged <br>
+<input  type="checkbox" name="options" value="RP3"> Roleplaying is Enforced <br>
+
+</td></tr>
+
+<tr><td colspan=2>  
+<br><p><hr width=80%><br>
+ 
+<font size=-1>
+<center>
+<u>Choose a Player Model</u> <br>
+<font size=-2>[ The following options specify the number of players expected
+online at any given time ]</font> <br>
+<font size=-2>(Choose only 1 of the available options per search)</font> <br>
+</center>
+<br>
+ 
+</td></tr>
+<tr><td>
+ 
+<font size=-1>
+<input  type="checkbox" name="options" value="NP1"> Under 10 players<br>
+<input  type="checkbox" name="options" value="NP2"> 10 - 24 players <br>
+<input  type="checkbox" name="options" value="NP3"> 25 - 49 players <br>
+ 
+</td><td>
+ 
+<font size=-1>
+<input  type="checkbox" name="options" value="NP4"> 50 - 74 players <br>
+<input  type="checkbox" name="options" value="NP5"> 75 - 99 players <br>
+<input  type="checkbox" name="options" value="NP6"> 100+ players <br>
+
+</td></tr>
+<tr><td colspan=2>
+ 
+<font size=-1>
+<br><p><hr width=80%><br>
+ 
+<center>
+<u>Mud Date Options</u>
+</center>
+<br>
+ 
+<p>Please specify a date filter technique and a date for filtering mud listings:</p>
+
+<font size=-2> 
+<select name="dtype">
+<option  value="AFTER"> Muds created AFTER the Mth-Year specified
+<option  value="YEAR"> Muds created during the year specified
+<option  value="BEFORE"> Muds created BEFORE the Mth-Year specified
+</select>
+</font>
+ 
+<select name="cr_mth">
+<option  value="01"> January
+<option  value="02"> February
+<option  value="03"> March
+<option  value="04"> April
+<option  value="05"> May
+<option  value="06"> June
+<option  value="07"> July
+<option  value="08"> August
+<option  value="09"> September
+<option  value="10"> October
+<option  value="11"> November
+<option  value="12"> December
+</select>
+
+<select name="cr_yr">
+<option  value="1980">1980<option  value="1981">1981<option  value="1982">1982<option  value="1983">1983
+<option  value="1984">1984<option  value="1985">1985<option  value="1986">1986<option  value="1987">1987
+<option  value="1988">1988<option  value="1989">1989<option  value="1990">1990<option  value="1991">1991
+<option  value="1992">1992<option  value="1993">1993<option  value="1994">1994<option  value="1995">1995
+<option  value="1996">1996<option  value="1997">1997<option  value="1998">1998<option  value="1999">1999
+<option  value="2000">2000<option  value="2001">2001<option  value="2002">2002<option  value="2003">2003
+<option  value="2004">2004<option  value="2005">2005<option  value="2006">2006<option  value="2007">2007
+<option  value="2008">2008
+</select>
+
+
+</td></tr>                                                                      
+</table>
+</form>
+</center>
+
+
+
+<br />
+<br />
+<br />
+
+</div>
+</div>
+</div>
+
+<!--#exec cmd="/home/mud/www/cgi-bin/adduser.cgi home"-->
+
+<!-- TMC Footer Begins -->
+
+<div id="footerwrap">
+<div id="footer">
+
+<div id="irebutton">
+<a href="http://www.ironrealms.com/" target="IRE"><img src="/ads/irebutton.gif" border="0" padding="0"></a>
+</div>
+
+<div id="privacycopyright">
+<p><a href="/privacy.html">Privacy Policy</a> | <a href="/cgi-bin/file_report.cgi">Report Inappropriate Material</a> | <a href="/terms.html">Terms of Service</a></p>
+	<p><span style="display:block;padding-top:2px";><a href="http://www.mudconnect.com">The Mud Connector</a>: copyright © 1994 - 2009 by <a href="#">BCN, LLC</a>. | Hosted by <a href="http://www.wolfpaw.net/">Wolfpaw</a> | Graphic design by<a href="mailto:jason@jlaymandesign.com"> Jason Layman</a></span></p>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-78628-2");
+pageTracker._trackPageview();
+</script>	</div>
+</div>
+</body></html>
+
+

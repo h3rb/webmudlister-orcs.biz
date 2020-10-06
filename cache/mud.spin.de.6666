@@ -1,0 +1,21 @@
+The Land LP MUD
+#$#mcp version: 2.1 to: 2.1
+running on LDMud 3.3.717 with LandLib 0.5
+
+            ##                                           ## 
+    ######  ##                   ##                      ## 
+      ##    ##                   ##                      ## 
+      ##    ####    ###          ##      ####  # ##    #### 
+      ##    ## ##  ## ##         ##     ## ##  ## ##  ## ## 
+      ##    ## ##  #####         ##     ## ##  ## ##  ## ## 
+      ##    ## ##  ##            ##     ## ##  ## ##  ## ## 
+      ##    ## ##   ###          #####   ## #  ## ##   #### 
+
+===============================================================
+  guest    - for logging in as a guest character
+  new      - for creating a new character
+  who      - to see who is logged on
+  quit     - to log out again
+
+or enter the name of your character to login
+===============================================================

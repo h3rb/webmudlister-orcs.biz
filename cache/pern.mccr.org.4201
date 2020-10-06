@@ -1,0 +1,16 @@
+Welcome to PernMUSH (NC)!
+
+PernMUSH is a themed roleplaying MUSH based on the _Dragonriders of Pern_
+novels by Anne McCaffrey. Here, we attempt to recreate, with as much
+authenticity as possible, the society described in the novels. Those who
+lack an interest in the world of Pern, or in roleplaying in a cooperative
+environment, may wish to seek their entertainment elsewhere.
+
+---------------------------------------------------------------------------
+Use create <name> <password> to create a new character.
+Use connect <name> <password> to connect to your existing character.
+Use connect guest guest if you'd just like to look around.
+Use QUIT to logout.
+Use WHO to find out who is online currently.
+---------------------------------------------------------------------------
+

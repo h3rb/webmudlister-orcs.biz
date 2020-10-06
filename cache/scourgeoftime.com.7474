@@ -1,0 +1,43 @@
+
+
+   [0;31mmssssssssss   cccccccc   oooo    uuu   uuu  rrrrrrrrr  gggggggggg eeeeeeeee
+   sssssssss    ccccccc    oo  oo   uuu   uuu  rrr  rrrr  gggg    gg eeeeeeeee
+  ssss          ccccc     ooo  ooo  uuu   uuu  rrr   rrrr gggg    gg eeee
+   sssssss      ccc      oooo  oooo uuu   uuu  rrr   rrrr ggg        eeeeeee
+     ssssss     ccc      oooo  oooo uuu   uuu  rrr  rrrr  gg    gggg eeeeeee
+      sssssss   ccccc     ooo  ooo  uuu   uuu  rrr rrrrr  ggg   gggg eeee 
+   sssssssss    ccccccc    oo  oo   uuuuuuuuu  rrr  rrrr  ggg     gg eeeeeeeee
+ sssssssss       cccccccc   oooo    uuuuuuuuu  rrr   rrrr gggggggggg eeeeeeeee
+
+           [1;30m                 oooo       fffffffff
+                           oo  oo      fffffffff
+                          ooo  ooo     ffff 
+                         oooo  oooo    fffffff
+                         oooo  oooo    fffffff
+                          ooo  ooo     ffff 
+                           oo  oo      ffff
+                            oooo       ffff
+ 
+              [0;33m  ttttttttt   iiii   mmm    mmm     eeeeeeeeee
+                ttttttttt   iiii  mmm  mm  mmm    eeeeeeeeee
+                   ttt      iiii  mmm  mm  mmm    eeee
+                   ttt      iiii  mmm  mm  mmm    eeeeeeee
+                   ttt      iiii  mmm      mmm    eeeeeeee
+                   ttt      iiii  mmm      mmm    eeee
+                   ttt      iiii  mmm      mmm    eeeeeeeeee
+                   ttt      iiii  mmm      mmm    eeeeeeeeee [0m
+
+
+THIS IS A MUD BASED ON.....
+
+                                ROM Version 2.4 beta
+
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1996 Russ Taylor
+               Quest Code (c) 1996 Ryan Addams
+               SOT 1.6.11 (c) 2002-2009 Scourge, 2010 Scourge/Galius
+	       http://scourgeoftime.com/sound.htm for music credits
+
+By what name do you wish to be known?  

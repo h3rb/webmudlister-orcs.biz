@@ -1,0 +1,25 @@
+#$#mcp version: "2.1" to: "2.1"
+Ooooh, say the words... 
+Welcome to _____           __                  ____  __  __           __
+SPR       / ___/          /_/                 / /_/ / / /_/          / /
+         / /_________________________________/ /___/ /______________/ /
+        /__  / __  / ___/ / __  / __  / __  / / /_  __/ / ___/___  / /
+       ___/ / /_/ / /__/ / /_/ / /_/ / /_/ / / / / /_/ / /__/ __  / /
+      /____/_____/____/_/_____/ ____/_____/_/_/ /___/_/____/_____/_/
+     ______                __/ /_____             __  __
+    / __  /               /_/_/ __/_/            / / /_/
+   / /_/ /___________________/ /________________/ /____________________
+  /   __/___  / __  __  / /_  __/ / ___/___  /_  __/ / __  / __  / ___/
+ / /\ \/ __  / / / / / / / / / / / /__/ __  / / /_/ / /_/ / / / /__  /
+/_/ /_/_____/_/ /_/ /_/_/ /_/ /_/____/_____/ /___/_/_____/_/ /_/____/
+
+The furry, free, tech-styled MUCK at FOO, Linkoeping, Sweden, Earth!
+Founded 19th September 1994. Guaranteed 100% CDA-free! You can type:
+    WHO                          to see who is already on
+    connect <name> <password>    to connect to an existing character
+    connect #<dbref> <password>  if you forgot your own name :)
+    connect guest guest          to visit as a guest 
+We create new characters on the fly: to get a character, connect as a
+guest and follow the displayed instructions. 
+*Your password will be emailed to you.*
+Home Page: http://spr.ctrl-c.liu.se/         Ports: 23, 2323  SSL: 23551

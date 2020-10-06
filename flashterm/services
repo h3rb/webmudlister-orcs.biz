@@ -1,0 +1,5 @@
+# make sure to change settings ports and addys
+rm nohup.out
+nohup php -f flashsocket.php &
+cd flashpolicyd_v0.6
+./runme

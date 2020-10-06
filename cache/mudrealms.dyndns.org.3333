@@ -1,0 +1,35 @@
+
+Would you like ANSI color? (Y/n) [1;37mWelcome to The Mind's Eye[0m
+[0m            .         [1;36m..xxxxxxxxxx....[0m               .       .
+    .            [1;36m MWMWMWWMWMWMWMWMWMWMWMWMW[0m                       .
+             [1;36m IIIIMWMWMWMWMWMWMWMWMWMWMWMWMWMttii:[0m        . .
+ .     [1;36m IIYVVXMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWxx...[0m         .
+    [1;36m IWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMx..[0m
+  [1;36m IIWMWMWMWMWMWMWMWMWBY%ZACH%AND%OWENMWMWMWMWMWMWMWMWMWMWMWMWMx..[0m
+   [1;36m ""MWMWMWMWMWM"""""""".  .:..   ."""""MWMWMWMWMWMWMWMWMWMWMWMWMWti.[0m
+ .     ""   . `  .: . :. : .  . :.  .  . .[1;36m """"MWMWMWMWMWMWMWMWMWMWMWMWMti=[0m
+        . .   :` . :   .  .'.' '....xxxxx...,'. ' '.[1;36m"""YWMWMWMWMWMWMWMWMWMW+[0m
+     ; . ` .  . : . .' :  . ..XXXXXXXXXXXXXXXXXXXXx.    ` [1;36m."YWMWMWMWMWMWMW[0m
+.    .  .  .    . .   .  ..XXXXXXXXWWWWWWWWWWWWWWWWXXXX.  . .[1;36m"""""""[0m
+        ' :  : . : .  ...XXXXXWWW"  [0;34m W88N88@888888[0mWWWWWXX.   .   . .
+   . ' .    . :   ...XXXXXXWWW"   [0;34m M88N88GGGGGG888^8M[0m "WMBX. ... : .
+         :     ..XXXXXXXXWWW"    [0;34m M88888W[0;31mWRWWWM[0;34mW8oo88M[0m   WWMX. . :
+           "XXXXXXXXXXXXWW"      [0;34m WN8888[0;31mWWWWW  W[0;34m8@@@8M[0m    BMBRX. .: :
+  .       XXXXXXXX=MMWW":  .     [0;34m W8N888[0;31mWWWWWWWW[0;34m88888W[0m     XRBRXX. .
+     ....  ""XXXXXMM::::. .       [0;34m W8@889[0;31mWWWWWM[0;34m8@8N8W[0m      . . :RRXx. .
+         ``...'''  MMM::.:.  .     [0;34m W888N89999888@8W[0m      . . ::::"RXV. :
+ .       ..'''''      MMMm::.  .     [0;34m WW888N88888WW[0m     .  . mmMMMMMRXx
+      ..' .            ""MMmm .  .      [0;34m WWWWWWW[0m   . :. :,miMM"""  : ""`.
+   .                .       ""MMMMmm . .  .  .   ._,mMMMM"""  :  ' .  :
+               .                  ""MMMMMMMMMMMMM""" .  : . '   .        .
+          .              .     .    .                      .         .
+THIS IS A MUD BASED ON.....
+                                ROM Version 2.4 beta
+               Original DikuMUD by Hans Staerfeldt, Katja Nyboe,
+               Tom Madsen, Michael Seifert, and Sebastian Hammer
+               Based on MERC 2.1 code by Hatchet, Furey, and Kahn
+               ROM 2.4 copyright (c) 1993-1996 Russ Taylor
+
+
+Running SVN Revision [1;31m99[0m
+Whose avatar should be summoned?

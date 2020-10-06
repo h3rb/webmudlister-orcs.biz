@@ -1,0 +1,511 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "../../../www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<title>mudconnect.com: The Mud Connector - Mud and RPG game index, mudlist and reviews</title>
+<META NAME="keywords" VALUE="Mud Connector, Mud, Mudding, Multi-Player, Roleplaying, Online Gaming, Games, Mud Games, MMORPG, Mudlist, Mud List, Virtual">
+<META NAME="description" VALUE="The Mud Connector is a free service for locating multi-user games (MUDs) on the internet (mudlist). We currently offer over 1000+ mud listings, discussion boards, game reviews, resource links, random mud picker, and a comprehensive search engine system. TMC has links to roleplaye games, combat oriented games and mixes of both, we also list MMORPG and graphical-based mud games.">
+<META NAME="author" VALUE="Andrew Cowan">
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="stylesheet" href="/css/tmc.css" type="text/css">
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/ie6.css" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/ie7.css" type="text/css">
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/ie8.css" type="text/css">
+<![endif]-->
+
+<!-- Javascript Declarations Section -->
+
+<script type="text/javascript">
+<!--
+
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function hl_anewsbg( dname ){
+   var anews = document.getElementById( dname );
+   anews.style.cssText = 'margin-top: 7px; padding: 1em; background: #300; border: 1px dotted #fff;';
+}
+
+function reset_anewsbg( dname ){
+   var anews = document.getElementById( dname );
+   if ( dname == 'anews5' ){
+      anews.style.cssText = 'margin-top; 7px; padding: 1em; background: #000; border-bottom: none;';
+   }else{
+      anews.style.cssText = 'margin-top; 7px; padding: 1em; background: #000; border-bottom: 1px dotted #fff;';
+   }
+}
+
+function set_memberBox( text ){
+   var mbox = document.getElementById("memberBox");
+   mbox.innerHTML = text;
+}
+
+function detectBrowser() { 
+    var BO = new Object(); 
+    BO["ie"]        = false /*@cc_on || true @*/; 
+    BO["ie4"]       = BO["ie"] && (document.getElementById == null); 
+    BO["ie5"]       = BO["ie"] && (document.namespaces == null) && (!BO["ie4"]); 
+    BO["ie6"]       = BO["ie"] && (document.implementation != null) && (document.implementation.hasFeature != null); 
+    BO["ie55"]      = BO["ie"] && (document.namespaces != null) && (!BO["ie6"]); 
+    /*@cc_on
+    BO["ie7"] = (BO["ie"] && document.implementation != null && document.compatMode != null && window.XMLHttpRequest != null);
+    @*/ 
+    BO["ns4"]       = !BO["ie"] &&  (document.layers != null) &&  (window.confirm != null) && (document.createElement == null); 
+    BO["opera"]     = (self.opera != null); 
+    BO["gecko"]     = (document.getBoxObjectFor != null); 
+    BO["khtml"]     = (navigator.vendor == "KDE"); 
+    BO["konq"]      = ((navigator.vendor == 'KDE') || (document.childNodes) && (!document.all) && (!navigator.taintEnabled)); 
+    BO["safari"]    = (document.childNodes) && (!document.all) && (!navigator.taintEnabled) && (!navigator.accentColorName); 
+    BO["safari1.2"] = (parseInt(0).toFixed == null) && (BO["safari"] && (window.XMLHttpRequest != null)); 
+    BO["safari2.0"] = (parseInt(0).toFixed != null) && BO["safari"] && !BO["safari1.2"]; 
+    BO["safari1.1"] = BO["safari"] && !BO["safari1.2"] && !BO["safari2.0"]; 
+    return BO; 
+} 
+
+function isNumeric(sText){
+   var ValidChars = "0123456789.";
+   var IsNumber=true;
+   var Char;
+ 
+   for (i = 0; i < sText.length && IsNumber == true; i++) {
+      Char = sText.charAt(i); 
+      if (ValidChars.indexOf(Char) == -1) {
+         IsNumber = false;
+      }
+   }
+   return IsNumber;
+}
+
+function set_middleheight(){
+   var NS = document.all;
+   var agent = navigator.userAgent;
+   var browser = detectBrowser();
+
+   
+   //alert( 'content.height:' + document.getElementById("content").style.height );
+
+   var h1 = window.innerHeight;
+   var h2 = document.body.clientHeight;
+   var h3 = document.documentElement.clientHeight;
+   var h_adj;
+
+   //alert( 'browser:' + browser["gecko"] );
+   //alert( 'h1: ' + h1 + ' h2:' + h2 + ' h3:' + h3 );
+
+   if ( ( typeof( h1 ) != "undefined" ) && ( typeof( h2 ) != "undefined" ) ){
+      if ( h1 > h2 )
+         h_adj = h1;
+      else
+         h_adj = h2;
+      //alert( 'h: ' + h_adj );
+   }else if ( typeof( h1 ) != "undefined" ){
+      h_adj = h1;
+      //alert( 'h: ' + h_adj );
+   }else if ( typeof( h2 )  != "undefined" ){
+      h_adj = h2;
+      //alert( 'ht2: ' + h_adj );
+   }
+
+   //if ( browser["ie7"] ) h_adj = h_adj * 2;
+   //alert( 'ht: ' + h_adj );
+
+   document.getElementById("middlewrap").style.height = h_adj - 65 + 'px';
+   document.getElementById("middle").style.height = h_adj - 55 + 'px';
+   document.getElementById("content").style.height = h_adj - 55 + 'px';
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+<div id="headerwrap">
+<div id="header">
+   
+<div id="TMClogolink"><a href="/index.html"><img src="/HeaderImages/TMClogoLink.gif" width="154" height="75"></a></div>
+<div id="bigMClink"><a href="/index.html"><img src="/HeaderImages/bigMClink.gif" width="344" height="25"></a></div>
+<div id="littleMClink"><a href="/index.html"><img src="/HeaderImages/littleMClink.gif" width="176" height="12"></a></div>
+ 
+		
+<div id="headerContentsButton" onMouseOver="MM_showHideLayers('headerContentsFlyout','','show')" onMouseOut="MM_showHideLayers('headerContentsFlyout','','hide')">
+<a href="/contents.html" class="rollover1"></a>
+</div>
+
+<div id="headerContentsFlyout" onMouseOver="MM_showHideLayers('headerContentsFlyout','','show')" onMouseOut="MM_showHideLayers('headerContentsFlyout','','hide')">
+<ul>
+<li><a href="/index.html">TMC Home</a></li>
+<li><a href="/contents.html">Table of Contents</a></li>
+<li><a href="/sitemap.html">Sitemap</a></li>
+<li><a href="/whatsnew.html">What's New</a></li>
+<li><a href="/mud_intro.html">Mud Intro</a></li>
+<li><a href="/tmcfaq.html">The TMC Faq</a></li>
+<li><a href="/articles/">Articles</a></li>
+<li><a href="/affiliates">Affiliates</a></li>
+</ul>
+</div>
+
+<div id="headerListingsButton" onMouseOver="MM_showHideLayers('headerListingsFlyout','','show')" onMouseOut="MM_showHideLayers('headerListingsFlyout','','hide')">
+<a href="/mud_listings.html" class="rollover2"></a>
+</div>
+
+<div id="headerListingsFlyout" onMouseOver="MM_showHideLayers('headerListingsFlyout','','show')" onMouseOut="MM_showHideLayers('headerListingsFlyout','','hide')">
+<ul>
+<li><a href="/cgi-bin/submit.cgi">Add / Edit Listing</a></li>
+<li><a href="/top10.html">Top 10 Muds</a></li>
+<li><a href="/mud_listings.html">Alphabetical</a></li>
+<li><a href="/mud_category.html">Categorical</a></li>
+<li><a href="/cgi-bin/mud_random.cgi">Random Mud Pick</a></li>
+<li><a href="/reviews">Mud Reviews</a></li>
+<li><a href="/mud_graphical.html">Graphical Muds</a></li>
+</ul>
+</div>
+
+<div id="headerSearchButton" onMouseOver="MM_showHideLayers('headerSearchFlyout','','show')" onMouseOut="MM_showHideLayers('headerSearchFlyout','','hide')">
+
+<a href="/mud_search.html" class="rollover3"></a>
+</div>
+
+<div id="headerSearchFlyout" onMouseOver="MM_showHideLayers('headerSearchFlyout','','show')" onMouseOut="MM_showHideLayers('headerSearchFlyout','','hide')">
+<ul>
+<li><a href="/mud_search.html">Mud Search</a></li>
+<li><a href="/adv_search.html">Advanced Search</a></li>
+<li><a href="/mud-bin/mud_search.cgi?Mode=NEW">New Listings</a></li>
+<li><a href="/mud-bin/mud_search.cgi?Mode=UPDATE">Updated Listings</a></li>
+</ul>
+</div>
+
+<div id="headerCommunityButton" onMouseOver="MM_showHideLayers('headerCommunityFlyout','','show')" onMouseOut="MM_showHideLayers('headerCommunityFlyout','','hide')">
+<a href="/discuss/discuss.cgi" class="rollover4"></a>
+</div>
+
+<div id="headerCommunityFlyout" onMouseOver="MM_showHideLayers('headerCommunityFlyout','','show')" onMouseOut="MM_showHideLayers('headerCommunityFlyout','','hide')">
+<ul>
+<li><a href="/member">Members Index</a></li>
+<li><a href="/discuss">Discussions</a></li>
+<li><a href="/mud-bin/new_prev/search.cgi">Player Reviews</a></li>
+</ul>
+</div>
+
+<div id="headerResourcesButton" onMouseOver="MM_showHideLayers('headerResourcesFlyout','','show')" onMouseOut="MM_showHideLayers('headerResourcesFlyout','','hide')">
+<a href="/resources" class="rollover5"></a>
+</div>
+
+<div id="headerResourcesFlyout" onMouseOver="MM_showHideLayers('headerResourcesFlyout','','show')" onMouseOut="MM_showHideLayers('headerResourcesFlyout','','hide')">
+<ul>
+<li><a href="/resources">TMC Resources</a></li>
+<li><a href="/fmud/">Flash Telnet Client</a></li>
+<li><a href="/tmc">Advertise on TMC</a></li>
+<li><a href="/contact.html">Contact TMC</a></li>
+<li><a href="http://www.wolfpaw.net/" target="res">Wolfpaw Services</a></li>
+<li><a href="/mudfaq">The Mud Faq</a></li>
+</ul>
+</div>
+
+<div id="memberBox">
+<div id="memberBoxInner">
+</div>
+</div>
+
+</div>
+</div>
+
+<!-- TMC Header Ends -->
+
+
+
+<script language="javascript">
+set_memberBox("<center><b>Member Login</b><br /><small>You are not logged in</small><br /><a href='/cgi-bin/member/login_front.cgi'>Login</a> | <a href='/cgi-bin/member/signup.cgi'>Signup</a></center>");
+</script>
+
+
+
+
+<div id="middlewrap">
+<div id="middle">
+<div id="content">
+
+<br />
+
+<div id="adbar">
+<!-- load_impressions_day() T=(2010-07-30) -->
+<!-- Item: IRESkotosFront (type: 1) -->
+<!-- Item chosen: GROUP : IRESkotosFront -->
+<!-- AD TO DISPLAY: IronRealms_Flashcp1 -->
+<!-- ROOT=(/home/mud/www) 0=(/ads/IronRealms/index3.html) -->
+
+<iframe src="/ads/IronRealms/index3.inner.html" width='728' height='90' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'></iframe>
+</iframe>
+
+
+</div>
+
+<center>
+<table width="95%">
+
+<tr><td colspan="2">
+
+<table width="100%" border="0" cellspacing="3" cellpadding="0" align="center">
+<tr> 
+<td bgcolor="" valign="middle" align="center"> 
+
+<center>
+<h3>Mudlist Search:</h3>
+<a href="/mud_search.html">1115
+ Mud Listings</a>
+</center>
+
+
+</td>
+<td valign="top" bgcolor=""> 
+
+<table width=100% border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="" valign="middle" align="center">
+
+<div id='frontTopLinks' style='text-align: center;'>
+<b>Last Updated:</b> 
+
+July 30, 2010
+
+<br />
+
+<font size=-1>
+<b>Random Mud Pick:</b> 
+<a href="/mud-bin/adv_search.cgi?Mode=MUD&mud=Phidar">Phidar</a>
+ ( <a href="http://www.mudconnect.com/fmud/?host=phidar.org&port=9000">Play Now</a> )
+<br />
+<b>Affiliate:</b> <a href="http://www.zuggsoft.com/zmud/zmudinfo.htm" target="_blank">Zmud</a> - the most advanced MUD client for PC/Windows.
+ 
+</font>
+<div>
+
+</td></tr>
+</table>
+
+</td>
+<td valign="middle" align='center'> 
+
+<center>
+<h3>Review Search:</h3>
+<a href="/mud-bin/new_prev/search.cgi">1157 player reviews</a>
+
+</center>
+
+</td>
+</tr>
+</table>
+
+</td></tr>
+<tr><td  colspan=2 valign="middle" align='center'> 
+
+<!-- Discussions Links -->
+
+<br />
+
+<center>
+<div id="frontLatestDisc">
+<span id="frontLatestDiscLabel"><a href="/discuss/">Latest Member Discussions</a> 
+</span>
+<br />
+
+
+
+<script type="text/javascript" src="/javascript/unitip/unitip.js"></script>
+<link type="text/css" href="/css/unitip/unitip.css" rel="stylesheet" />
+
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/javascript/unitip/unitpngfix.js"></script>
+<![endif]-->
+
+<table width=90% border=0 cellpadding=1 cellspacing=0>
+<tr><td>
+<table>
+<tr><td><span class='tooltip' title='This mesg posted at 07:31 PM on 07/30/2010'>[07/30]</span></td><td align=left><a class='tooltip' title='"RPI Codebases?"<br />8 messages in thread, Topic created by Realedazed on 06/26/2010 at 04:27 PM' href="/discuss/discuss.cgi?mode=MSG&area=new_admin&message=9301#9301">RPI Codebases?</a> <font size=-1>by Arond (new_admin)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 07:06 PM on 07/30/2010'>[07/30]</span></td><td align=left><a class='tooltip' title='"Newly Founded MUD Code Archive"<br />14 messages in thread, Topic created by Laerrus on 07/26/2010 at 05:28 AM' href="/discuss/discuss.cgi?mode=MSG&area=coders&message=26110#26110">Newly Founded MUD Code Archive</a> <font size=-1>by Laerrus (coders)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 06:08 PM on 07/30/2010'>[07/30]</span></td><td align=left><a class='tooltip' title='"Roleplaying Action"<br />1 message in thread, Topic created by iovandrake on 07/30/2010 at 06:08 PM' href="/discuss/discuss.cgi?mode=MSG&area=promotions&message=22751#22751">Roleplaying Action</a> <font size=-1>by iovandrake (promo)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 04:44 AM on 07/30/2010'>[07/30]</span></td><td align=left><a class='tooltip' title='"your MUD - hows it faired?"<br />8 messages in thread, Topic created by hallows on 07/26/2010 at 12:11 AM' href="/discuss/discuss.cgi?mode=MSG&area=general&message=23593#23593">your MUD - how's it faired?</a> <font size=-1>by Arond (general)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 09:48 PM on 07/29/2010'>[07/29]</span></td><td align=left><a class='tooltip' title='"NiMUD Released 7-26-2010"<br />8 messages in thread, Topic created by Laerrus on 07/26/2010 at 12:37 PM' href="/discuss/discuss.cgi?mode=MSG&area=adv_code&message=16227#16227">NiMUD Released 7-26-2010</a> <font size=-1>by Laerrus (advanced)</font></td></tr>
+</table>
+</td><td>
+<table>
+<tr><td><span class='tooltip' title='This mesg posted at 04:32 PM on 07/29/2010'>[07/29]</span></td><td align=left><a class='tooltip' title='"Question For checking amount of $o"<br />4 messages in thread, Topic created by Mesna on 07/25/2010 at 06:03 PM' href="/discuss/discuss.cgi?mode=MSG&area=builders&message=6893#6893">Question For checking amoun...</a> <font size=-1>by Mesna (builders)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 02:09 PM on 07/29/2010'>[07/29]</span></td><td align=left><a class='tooltip' title='"webmudlister: run your own mud list"<br />1 message in thread, Topic created by Laerrus on 07/29/2010 at 02:09 PM' href="/discuss/discuss.cgi?mode=MSG&area=web_admin&message=1046#1046">webmudlister: run your own ...</a> <font size=-1>by Laerrus (web_admin)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 09:54 PM on 07/28/2010'>[07/28]</span></td><td align=left><a class='tooltip' title='"Looking for a (good) dark-themed RP mush/mud"<br />7 messages in thread, Topic created by Sonolin on 09/23/2009 at 11:36 PM' href="/discuss/discuss.cgi?mode=MSG&area=rp&message=4712#4712">Looking for a (good) dark-t...</a> <font size=-1>by TRHatter (rp)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 02:27 PM on 07/28/2010'>[07/28]</span></td><td align=left><a class='tooltip' title='"Looking For A Good Mud"<br />11 messages in thread, Topic created by Korok on 07/16/2010 at 01:30 PM' href="/discuss/discuss.cgi?mode=MSG&area=general&message=23588#23588">Looking For A Good Mud</a> <font size=-1>by Gatz (general)</font></td></tr>
+<tr><td><span class='tooltip' title='This mesg posted at 10:12 PM on 07/27/2010'>[07/27]</span></td><td align=left><a class='tooltip' title='"Mistborn: The Final Empire MUD Needs experienced design team."<br />3 messages in thread, Topic created by DMJohn on 07/26/2010 at 01:22 AM' href="/discuss/discuss.cgi?mode=MSG&area=positions&message=35340#35340">Mistborn: The Final Empire ...</a> <font size=-1>by DMJohn (staff)</font></td></tr>
+</table>
+</table>
+
+
+
+
+</div>
+
+<div style='width: 750px; text-align: left;'>
+( * for more mud forums check 
+<a href="http://www.topmudsites.com/" target="_blank"><span style='font-size: 10px;'>Top Mud Sites</span></a> )
+</div>
+</center>
+
+<br />
+
+</td></tr>
+<tr><td align="left">
+
+<div style="width: 350px; padding: 1em; margin-left: 40px; border: 1px solid #fff; background: #300;">
+Muds: New Listings:<br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Village+Rivals>Village Rivals</a> [<font size=-2>July 26, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Ten+Nations>Ten Nations</a> [<font size=-2>July 22, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Aragond:+The+Chronicles>Aragond: The Chronicles</a> [<font size=-2>July 21, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Legends+of+the+West>Legends of the West</a> [<font size=-2>July 16, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Drums+in+the+Dark>Drums in the Dark</a> [<font size=-2>July 15, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Shroom+Mud>Shroom Mud</a> [<font size=-2>July 14, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Slackmud>Slackmud</a> [<font size=-2>July 7, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Njata>Njata</a> [<font size=-2>July 2, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Shockwave+Realms>Shockwave Realms</a> [<font size=-2>June 24, 2010</font>] <br />
+<a href=/cgi-bin/adv_search.cgi?Mode=MUD&mud=Divided+Skies+MUSH>Divided Skies MUSH</a> [<font size=-2>June 24, 2010</font>] <br />
+
+</div>
+
+</td><td align="left">
+
+<div style="width: 350px; padding: 1em; border: 1px solid #fff; background: #300;">
+Muds: New Player Reviews:<br />
+<a href="/cgi-bin/new_prev/review.cgi?mud=3028&use_idx=1" title="The Mud Connector: Review of 6 Dragons">6 Dragons</a> [<font size=-2>July 05, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29386" title="The Mud Connector: Review of Dark-Legacy MUD (Dark Legacy MUD)">Dark-Legacy MUD (Dark Legacy MUD)</a> [<font size=-2>July 05, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29383" title="The Mud Connector: Review of RetroMUD">RetroMUD</a> [<font size=-2>July 05, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29355" title="The Mud Connector: Review of Maiden Desmodus">Maiden Desmodus</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29372" title="The Mud Connector: Review of Awakened Worlds">Awakened Worlds</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29365" title="The Mud Connector: Review of Medievia">Medievia</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29364" title="The Mud Connector: Review of The Inquisition: Atonement">The Inquisition: Atonement</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29356" title="The Mud Connector: Review of BatMUD">BatMUD</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29349" title="The Mud Connector: Review of Valhalla MUD">Valhalla MUD</a> [<font size=-2>June 28, 2010</font>]<br />
+<a href="/cgi-bin/new_prev/review.cgi?rid=29328" title="The Mud Connector: Review of New Worlds">New Worlds</a> [<font size=-2>June 27, 2010</font>]<br />
+
+</div>
+
+</td></tr>
+</table>
+</center>
+
+<br />
+
+
+<!-- BEGIN IRE Content Ad -->
+<div id="iretext">
+<script src="http://www.achaea.com/mudconnector_adverts/tmcad_new.js"></script>
+</div>
+<!-- END IRE Content Ad -->
+
+
+<a name="announce"></a>
+
+<p><br>
+
+<center>
+<div id="shadedbox3" style='background: #000;'>
+
+<center>
+<h1>Announcements</h1>
+</center>
+
+<br />
+
+<div id="anews1" class="anews" onmouseover="hl_anewsbg( 'anews1' );" onMouseOut="reset_anewsbg( 'anews1' );">
+<div style="margin-top: -20px; float:right">
+<a href="/iphone/"><img border="0" width="50" src="/iphone/images/sshot1.png"></a>
+</div>
+<h3><span>July 13, 2010</span> mobile.tmc - iPhone app now available </h3>
+Available now in the iTunes store, <a href="/iphone/">mobile.tmc</a> 
+is our free app to help you
+keep up with the latest discussions, muds and reviews posted to TMC.
+<br /><br />
+</div>
+
+<div id="anews2" class="anews" onmouseover="hl_anewsbg( 'anews2' );" onMouseOut="reset_anewsbg( 'anews2' );">
+<h3><span>February 18, 2010</span> New TMC Flash Client now Live </h3>
+A very BIG thank you goes out to <a href='http://bc-dev.net'>Matt Adcock</a> of <a href='http://www.mudgamers.com/'>mudgamers.com</a> and <a href='http://maidendesmodus.com'>Maiden Desmodus</a> for providing TMC with a terrific <a href='http://www.mudconnect.com/fmud/'>new flash-based telnet client</a>.
+<br /><br />
+</div>
+
+
+<div id="anews3" class="anews" onmouseover="hl_anewsbg( 'anews3' );" onMouseOut="reset_anewsbg( 'anews3' );">
+<h3><span>January 15, 2010</span> Bright Hub article about TMC / muds / mudding </h3>
+I am very pleased to share with you a <a href="http://www.brighthub.com/" target="BrightHUB">Bright Hub</a> article written by Michael Hartman
+( of <a href="http://www.mudconnect.com/mud-bin/simple_search.cgi?Mode=MUD&mud=Threshold+RPG">Threshold</a> ) 
+about TMC, muds and mudding
+which you can find <a href="http://www.brighthub.com/video-games/mmo/articles/61599.aspx" target="BrightHUB">here</a>. Please check it out!
+<br /><br />
+</div>
+
+<div id="anews4" class="anews" onmouseover="hl_anewsbg( 'anews4' );" onMouseOut="reset_anewsbg( 'anews4' );">
+<h3><span>April 3, 2009</span> Power Outage / Downtime</h3>
+Many of you may have noticed some downtime starting last night and ending just a little while ago. This resulted from a glitch in Wolfpaw's backup power system which caused the server shutdown, mysql issues continued the problem until a little bit ago, all should be working now (as of 2:45p Friday).
+<br /><br />
+</div>
+
+
+<div id="anews5" class="anews" onmouseover="hl_anewsbg( 'anews5' );" onMouseOut="reset_anewsbg( 'anews5' );">
+<h3><span>January 28, 2009</span> New TMC Layout is Live</h3>
+The new site is live, a note about that is on the <a href="/whatsnew.html">whats new</a> page. Thanks to all of you that helped provide feedback and suggestions.
+<br /><br />
+</div>
+
+
+</div>
+</center>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+<!-- addUser() returned 1 -->
+
+
+</div>
+</div>
+</div>
+
+
+<!-- TMC Footer Begins -->
+
+<div id="footerwrap">
+<div id="footer">
+
+<div id="irebutton">
+<a href="http://www.ironrealms.com/" target="IRE"><img src="/ads/irebutton.gif" border="0" padding="0"></a>
+</div>
+
+<div id="privacycopyright">
+<p><a href="/privacy.html">Privacy Policy</a> | <a href="/cgi-bin/file_report.cgi">Report Inappropriate Material</a> | <a href="/terms.html">Terms of Service</a></p>
+	<p><span style="display:block;padding-top:2px";><a href="http://www.mudconnect.com">The Mud Connector</a>: copyright © 1994 - 2009 by <a href="#">BCN, LLC</a>. | Hosted by <a href="http://www.wolfpaw.net/">Wolfpaw</a> | Graphic design by<a href="mailto:jason@jlaymandesign.com"> Jason Layman</a></span></p>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-78628-2");
+pageTracker._trackPageview();
+</script>	</div>
+</div>
+</body></html>
+

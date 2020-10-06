@@ -1,0 +1,25 @@
+                             Welcome to HoloTrek!
+
+
+          HoloTrek is a virtual recreation of the Star Trek universe,
+                           run by "The Q Continuum"
+
+
+DISCLAIMER:  Star Trek, Star Trek:TNG, Deep Space Nine, and Star Trek
+             Voyager are all trademarks of Paramount (A subsidiary of
+             Viacom, Inc.)  HoloTrek is non-profit and is not
+             affiliated with Paramount or Viacom.  Any questions can
+             be directed to the administrators at holoadmin@holotrek.org.
+
+Connection HELP
+===============
+
+Connecting as a guest:    'connect-guest <name> <email>'
+              Example:    'connect-guest John johnd@site.usa.com'
+
+Connecting as a user:     'connect <name> <password>'
+             Example:     'connect John mypassword'
+
+Quitting (this screen):   '@quit'   or   'quit'
+
+Connected Users Listing:  '@who'    or   'who'

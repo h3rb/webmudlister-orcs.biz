@@ -1,0 +1,11 @@
+This world is Pueblo 1.0 enhanced
+
+Welcome to TinyMUSH
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "create <name> <password>" creates a new character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list.
+------------------------------------------------------------------------------

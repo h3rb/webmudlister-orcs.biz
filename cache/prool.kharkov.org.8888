@@ -1,0 +1,11 @@
+
+Virtustan MUD
+Using keytable (kakaya u Vas kodirovka russkih bukv)
+(for Englishmans: using 5, or 0):
+  0) Koi-8
+  1) Alt
+  2) Windows(JMC,MMC)
+  3) Windows(zMUD)
+  4) Windows(zMUD ver. 6+)
+  5) Transliteration (output only! use English commands)
+Select one (vvedite nomer i nazhmite Enter): 

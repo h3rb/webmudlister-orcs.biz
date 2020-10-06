@@ -1,0 +1,21 @@
+  .::::::.:::::::::::::::.    :::::::..  .-:::::' :::.      :::      :::     
+ ;;;`    `;;;;;;;;'''';;`;;   ;;;;``;;;; ;;;''''  ;;`;;     ;;;      ;;;     
+ '[==/[[[[,    [[    ,[[ '[[,  [[[,/[[[' [[[,,== ,[[ '[[,   [[[      [[[     
+   '''    $    $$   c$$$cc$$$c $$$$$$c   `$$$"``c$$$cc$$$c  $$'      $$'     
+  88b    dP    88,   888   888,888b "88bo,888    888   888,o88oo,.__o88oo,.__
+   "YMmMY"     MMM   YMM   ""` MMMM   "W" "MM,   YMM   ""` """"YUMMM""""YUMMM
+                  .::::::.   :::.      .,-:::::/   :::.     
+                 ;;;`    `   ;;`;;   ,;;-'````'    ;;`;;    
+                 '[==/[[[[, ,[[ '[[, [[[   [[[[[[/,[[ '[[,  
+                   '''    $c$$$cc$$$c"$$c.    "$$c$$$cc$$$c 
+                  88b    dP 888   888,`Y8bo,,,o88o888   888,
+                   "YMmMY"  YMM   ""`   `'YMUP"YMMYMM   ""` 
+Built on Pennmush v. 1.8.3p9
+-----------------------------------------------------------------------------
+Use create <name> <password> to create a character.
+Use connect <name> <password> to connect to your existing character.
+Use connect guest to log in as a guest character.
+Use QUIT to logout.
+Use the WHO command to find out who is online currently.
+-----------------------------------------------------------------------------
+

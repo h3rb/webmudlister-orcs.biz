@@ -1,0 +1,40 @@
+ _   _ _                              _
+| | | (_) ___ _ ____   ____ _ _ __ __| |
+| |_| | |/ _ \ '__\ \ / / _` | '__/ _` |
+|  _  | |  __/ |   \ V / (_| | | | (_| |
+|_| |_|_|\___|_|    \_/ \__,_|_|  \__,_|
+                                    ,--.
+  __  __ _   _ ____                {    }
+ |  \/  | | | |  _ \               K,   }
+ | |\/| | | | | | | |             /  `Y`
+ | |  | | |_| | |_| |        _   /   /
+ |_|  |_|\___/|____/        {_'-K.__/
+                              `/-.__L._
+                              /  ' /`\_}
+                             /  ' /
+                     ____   /  ' /                    Based on CircleMUD 3.1,
+              ,-'~~~~    ~~/  ' /_                    Created by Jeremy Elson
+            ,'             ``~~~%',
+           (                     % Y           A derivative of DikuMUD (GAMMA 0.0),
+          {                      % I     created by Hans-Henrik Staerfeldt, Katja Nyboe,
+         {      -                 % `.  Tom Madsen, Michael Seifert, and Sebastian Hammer
+         |       ',                % )
+         |        |   ,..__      __. Y          Welcome to the world of Nick Perumov!
+         |    .,_./  Y ' / ^Y   J   )|         Our site is: http://www.hiervard.ru
+         \           |' /   |   |   ||
+          \          L_/    . _ (_,.'(
+           \,   ,      ^^""' / |      )
+             \_  \          /,L]     /
+               '-_`-,       ` `   ./`
+                  `-(_            )
+                      ^^\..___,.--`
+
+	1. KOI8-R [Unix/Linux users] 	
+	2. Win with capital russian 'YA' [JMC, MMC, zMUD, Win9x Telnet]
+	3. Alt [Win2k/XP Telnet]  
+	4. Win [JMC, MMC, Win9x Telnet] 		   
+	5. Translit input, Win output
+	6. Translit input, KOI8-R output
+	7. Translit input, translit output
+
+Please, select your encoding [ENTER = 4]:

@@ -1,0 +1,21 @@
+This world is Pueblo 1.0 enhanced
+
+Garou: The MUSH is based on the game system created by White Wolf Game Studio.
+In particular, _Werewolf: The Apocalypse_, _Vampire: The Masquerade_, and
+_Mage: The Ascension_, are all Copyright 1993 by White Wolf.  We thank them
+for their assistance in getting this game on the air.
+
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "connect guest guest" will allow you to login as a Guest.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands.
+
+  If you want a character, e-mail your request to garou-reg@GarouMUSH.org
+  Include in your request the character name and password you want, and a
+  brief background for the character.  If you're not familiar with the game,
+  additional information is available by logging in as a Guest and typing 
+  "news applications" (without the quotes).
+------------------------------------------------------------------------------

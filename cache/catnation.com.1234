@@ -1,0 +1,31 @@
+                         (_)                     (_)
+  /\    /\    /\    /\   /X\                     /X\   /\    /\    /\    /\
+  XX____XX____XX____XX___XXX  _________________  XXX___XX____XX____XX____XX
+  XXXXXXXXXXXXXXXXXXXXXXXXXX |.................| XXXXXXXXXXXXXXXXXXXXXXXXXX
+  XX    XX    XX    XX   XXX |.               .| XXX   XX    XX    XX    XX
+  XX    XX    XX    XX   XX/#|:      ___      .|/#XX   XX    XX    XX    XX
+  XX    XX |\_XX __/|X   XX\#|:....The Isle....|\#XX   X|\__ XX_/| XX    XX
+  XX    XX \ _ \/ _ /X   XXX |.    of Wight   .| XXX   X\ _ \/ _ / XX    XX
+  XX    XX  (I)\/(I)XX   XXX |.       .       .| XXX   XX(I)\/(I)  XX    XX
+  XX    XX  \/(oo)\/XX   XXX |.................|  XX   XX\/(oo)\/  XX    XX
+  XX    XX   |V,,V| XX   XXX |...On the Wings..| XXX   XX |V,,V|   XX    XX
+  XX____XX  /|A^^A|\XX __XXX |.    of the     .| XXX_ _XX/|A^^A|\  XX____XX
+  XXXXXX/ \/  TTTT  \/\XXXXX |......Abyss......| XXXXX/\/  TTTT  \/ \XXXXXX
+  XX  X/    (  ||  )   \ XX/#|:       .       .|/#XX /   (  ||  )    \X  XX
+  XX_ X_\    \ || /   /__XX\#|:       .       .|\#XX__\   \ || /    /_X _XX
+  XXX/   \   \||||/  /   \XX |.................| XX/   \  \||||/   /   \XXX
+  XX/   oooo_/||||\_ooo   \X |_________________| X/   ooo_/||||\_oooo   \XX
+   /         oooooo        \                     /        oooooo         \
+  /_________________________\                   /_________________________\
+  |_________________________|                   |_________________________|
+   |___I___I___I___I__I___|                       |___I__I___I___I___I___|
+   |_I___I___I___I__I___I_|                       |_I__I___I___I___I___I_|
+                              
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "create <name> <password>" creates a new character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list.
+------------------------------------------------------------------------------

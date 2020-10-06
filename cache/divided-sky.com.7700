@@ -1,0 +1,36 @@
+LPmud version : MudOS v22.2b14-DSv10 on port 7700.
+ÿý
+  ___________  _______________________________________
+ /\          \|                                       \
+|:::\::;,,..                                      .,;::\
+|::::\::;,,..                                      ,,;::\
+ \::::\::;,,,,,,                                   ..,;::\
+   ``` \::;,,,...    Welcome To                    ..,,;::\
+       |::;,,,,.          Divided Sky                ,,;::|
+      /::;,,...                                   ..,,;::/
+     /::;,,..                                    ..,,;::/
+    /::;,,..       Admin email :                ..,,;::/
+   |::;,,..              admin@divided-sky.com  .,,;::|
+    \::;,,..                                    ..,,;::\
+     \::;,,..                                    ..,,;::\
+      \::;,,..     Admin - Shaydz                 ..,,;::\
+       \::;,,..              Zrutu                  .,,;::\
+        \::;,,.                                      .,,;::\
+    _____\::;;..                                      ..;;::\
+   /::::::\::;;..                                      ..;;::\
+  |:::::::|::;..                                     .....;::|
+  |:::::::/::;;..                                     ..;;::/
+   \:::::/::;;,...                                      ;;::/
+    \::/::;;,.......                                ..,;;::/
+     \/_____________________________________/|____________/
+
+
+Please choose one of the following options:
+Q - Quit               M - Print this menu again
+N - New character      U - Short list of who is on-line
+G - Guest character    D - Delete your character
+F - Finger someone
+
+Or, enter your current character's name
+
+Your choice [D,F,G,M,N,U,Q,<name>]: 

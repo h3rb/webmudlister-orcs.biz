@@ -1,0 +1,8 @@
+.lister { font-family: arial; font-size:10px; }
+.nav-wrapper { width:75%; position:fixed; top:-10px; }
+.nav-bg2 { height:34px; }
+body {background:#121; color:#FF9900; font-family: blender,arial,sans-serif; font-size:10px; };
+a:link { color:orange; text-decoration:none }
+a:visited { color:#DD3300 }
+a:hover { color:yellow }
+a:active { color:white }

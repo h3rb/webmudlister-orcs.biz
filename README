@@ -1,0 +1,74 @@
+Thanks to Scion Altera (Peter Keeler scion@divineright.org) for letting me muck around with his apache service!
+
+Want to use this?  
+
+ See 'COPYING'
+ See 'install.txt'
+
+
+What is Web Mud Lister?
+-----------------------
+
+Web Mud Lister is a free, lightweight flat-file MUD listing service that allows anonymous
+web contributers to add MUDs to a list of services.  The services are polled on-demand
+and nightly for reliability, and after X days of consistent downtime, MUDs are moved from
+the active list to the MUD Graveyard.  For the first Y days, MUDs in the graveyard are
+periodically checked to see if they can be revived and placed on the main list.
+
+--- License
+
+Web Mud Lister is distributed under the LGPL, as long as no GPL add-ons are used, otherwise
+it falls back to the latest, most compatible GPL version.
+
+--- Storage Policies
+
+Active MUDs are stored in the Big List and are exported to a text file that can be downloaded.
+
+Graveyard MUDs can also be viewed or downloaded.
+
+MUDs cannot be delisted, however MUDs that have the keyword "NOLIST" in the first 8192 characters
+of their title sequence cannot be stored in the list.
+
+New listings are checked against both the Big List and the Graveyard for uniqueness.  If a new
+listing matches a Graveyard MUD, the MUD's "corpse" is revived.
+
+There is a way for list providers to automatically merge their lists with other providers.
+
+--- Security
+
+Injection protection is used to thwart baddies.
+
+reCAPTCHA can be turned on/off and reconfigured to use your own keys.  Or, by all means, use ours.
+
+Lots of concurrency issues have been addressed. 
+
+
+
+Suggested Extensions
+--------------------
+
+Now that you have this great mud listing service, you might want to think of ways to use data
+collected in interesting ways:
+
+1) Write bots that go and visit MUDs on the list periodically to capture their WHO list
+
+2) Extend the listings with player comments and reviews
+
+3) Provide links to associated Wiki articles in your own Wiki that use the MUD names as article
+titles, so you can have people come and add content to MUD listings that way.
+
+4) Use the hostname to locate and display the mud on a nice world map
+
+5) Graph changes in big.txt like they do at FindMUD.com
+
+6) The flat-file can be horizontally extended, so you can add other fields to your list and
+they shouldn't interfere, even when lists are shared between list providers.
+
+
+What we'd prefer you didn't do:
+
+1) Make it impossible to connect directly to MUDs by hiding and obscuring their addresses for
+your own personal gain.  Even though it is technically allowed under the LGPL, I caution 
+against this sort of information fascism.
+
+2) Break our license.

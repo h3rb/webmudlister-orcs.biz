@@ -1,0 +1,26 @@
+      -=+): WELCOME TO THE WORLD OF HAELRAHV :(+=-
+---------------------------------------------------------
+To create an account:
+    REGISTER <account name> <password> <email address>
+Ex: REGISTER FredJ pass123 fredjones@aol.com
+ 
+To log in with an existing account:
+    LOGIN <account name> <password>
+Ex: LOGIN FredJ pass123
+ 
+Note: New account registrations MUST provide a valid
+email address to play.  Account names and passwords are
+not case sensitive.
+ 
+If you have forgotten your account or password, type:
+PASSWORD <email address registered to>   -or-
+PASSWORD <account name>
+Your account and password will be emailed to the address
+your account is registered with.
+ 
+If you are unable to log in or create an account, please
+contact service@haelrahv.com.
+ 
+If you are connected and wish to disconnect your active
+connection, please type DISCONNECT.
+---------------------------------------------------------

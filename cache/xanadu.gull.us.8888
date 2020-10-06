@@ -1,0 +1,13 @@
+This world is Pueblo 1.10 Enhanced.
+__ __  __ _  _   _____  _  _    _ ___    ___
+ \ /   /| |\ |   /| | \ |  |   /   |   /  |  | /\  |\ |
+  /   /_| | \|  /_| |  \|  | *  \  |  /|  |  | \ \ | \|
+_/ \_/_ |_|  \_/_ |_|__/\__/   _/  | / |  |  |  \/ |  |
+---------------------------------------------------------
+ connect <name> <password> - connect to a character here
+                      QUIT - disconnect at any time
+                    LOGOUT - return to this screen
+---------------------------------------------------------
+Port 8888 for conventional clients, 8899 for SSL.
+---------------------------------------------------------
+

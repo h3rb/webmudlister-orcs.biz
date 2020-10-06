@@ -1,0 +1,22 @@
+                  .-'''``-.
+                .'         `.
+               /             \
+              .               .              Welcome to ...
+              :n,             :
+             _/ | _           '     ,.       .                   ,.
+            /'  `'/          /     / |   ,-. |-. . ,-. . ,-. ,-. `'
+          <~    .'.        .'     /~~|-. `-. | | | |   | | | | | ,.
+          .'    |  `-....-'     ,'   `-' `-' ' ' ' '   ' `-' ' ' `'
+        _/      |           ___        __                __
+      _/      `.`.           | |_  _  |__) _ _ |  _ _   (_  _ |_  _ _ _
+     / '   \__ | |           | | )(-  |__)| (_)|((-| )  __)|_)| )(-| (-
+ ___/      /__\ \ \                                        |
+(___.'\_______)\_|_| ------------------------------[Wolf by Matt Hoover]
+  "connect traveler" connects you to a guest character.
+  "connect <name> <password>" connects you to an existing character.
+  "create  <name> <password>" creates a new character.
+  "WHO"  tells you who is logged in to the game.
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list.
+------------------------------------------------------------------------

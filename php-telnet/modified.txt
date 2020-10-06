@@ -1,0 +1,2 @@
+I added the $port param and default values for user and pass and the 
+logic behind them.  - H. Elwood 

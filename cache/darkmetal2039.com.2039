@@ -1,0 +1,28 @@
+===== CONNECTED ==============================================================
+ Welcome to...       _____      ___      _______   ___    _
+                    /_    \    /   \    /_   _  \ /_  \  / \
+                     /  _  \  /  _  \    /  /_\  \ /  /_/  /
+                    /  / \  \/  /_\  \  /  _    _//     __/
+          _________/  /__/  /  _____  \/  / \  \_/  /\  \___________
+          \____  \____________/     \____/   \_____/  \___/    ____/
+            \____    ___  ___ _____           ___        _   ____/
+              \____ /   |/   /  ___)      ___/   \______/ \____/
+                   /    /   (  (__  |    |  /  _  \    /  /
+                  /  /|/  /  )  __) |    | /  /_\  \  /  /
+                 /  / /  /| (  (___ |    |/  _____  \/  /____
+                /__/ /__/ |__\_____)|    |__/     \_________/
+                                   _|    |_
+                                   \      /        MUSH
+                                    \    /
+                                     \  /  Will you survive the journey?
+                                      \/      darkmetal2039.com 2039
+                                           http://www.darkmetalmush.net 
+ --------------------------------------------------------------------------
+| "connect <name> <password>"  -- Connects you to an existing character.   |
+| "create <name> <password>"   -- Creates a new character.                 |
+| "connect Guest guest"        -- Logs you on as a Guest to look around.   | 
+| "WHO"                        -- Shows who is logged on (case sensitive). |
+| "QUIT"                       -- Disconnects.                             |   
+| "help"                       -- Gives you help on common commands.       | 
+ --------------------------------------------------------------------------
+============================================================== CONNECTED =====

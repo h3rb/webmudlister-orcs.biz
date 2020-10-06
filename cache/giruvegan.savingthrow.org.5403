@@ -1,0 +1,34 @@
+------------------------------------------------------------------------
+o /|            #######################################     #+ ###  |\ o
+ //          +    ###################/|##############  #             \\
+//|                 #############_##//#############     +            |\\
+|/|      +# ##        ###########\\//############     #  #           |\|
+|/      # ##  +           ######//\\#########        ###   ##         \|
+|     +      #              ###//  \|###### :        +                 |
+o               +           F I N A L     ::                           o
+|  ...               ::      F A N T A S Y                             |
+|\ .   ::     .      :      // MUX             .          :    .      /|
+|\|       :     .          //  /                         :    .  .:: |/|
+\\|:::::::   ....   ::  : //  /   :         ::     ::.       .::::   |//
+ \\     :::::            //  /  ::           :::            ::       //
+o \|:::::::::...:::::::::::::::::::::::::::::::...:...:::.....::::: |/ o
+------------------------------------------------------------------------
+-The following commands work at this login screen:
+  "connect <name> <password>" connects you to an existing character. 
+  "connect Guest guest" connects you to a Guest character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game (case sensitive at login screen). 
+-The following commands only work when connected to a character: 
+  "news" gives information about the theme and other items of interest.
+  "help" gives help on the commands. 
+ 
+  An application is required to get a character. Instructions on what to
+  include in your application and what format to use, as well as other
+  general information about the MUX, can be found on the website at
+  http://ffmux.savingthrow.org.  Once you finish your application,
+  email it to ffmuxapps@googlegroups.com.  Applications that don't follow
+  the guidelines provided in the news files and on the website will be
+  immediately rejected.  General questions can also be sent to
+  ffmuxapps@googlegroups.com, however it is generally easier to connect
+  as a guest and page a staff member for help.
+------------------------------------------------------------------------------

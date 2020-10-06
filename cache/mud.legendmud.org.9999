@@ -1,0 +1,28 @@
+
+
+        _____               ____---___   ___---____       
+       |     |   _____-----:::::::::::\ /:::::::::::-----_____
+        |   |   /::legendmud.org 9999::Y::www.legendmud.org:::\
+        |   |  /....________....______.|________..___....__.___\__
+        |   | /....|    ___ |../  __  ||    ___ ||   \..|  |    _  \    
+        |   |/......|  |...||./  /..\_|||  |...||.|   \..||.|  |.\  \
+        | Celebrating  |__...|  |..___.||  |__....|    \.||.|  |..|  | 
+        |   our 16th|   __|  |  | |   |||   __|   ||\   \|| |  |  |  |   
+        |   |.year..|  |.....|  |..|  |||  |......||.\    |.|  |..|  | 
+        |   |     _ |  |___|| \  \_|  |||  |___|| ||  \   | |  |_/  MUD
+        |   |____| |________|  \______||________||__|  \__||_______/  \
+       |___________|    Implemented by | Sandra and Lorenzo            \
+      /                  _____-----___ | ___-----___(imp@legendmud.org) \
+     /__________--------              \|/              --------__________\
+    /                                  Y                                  \
+   /   Based on DikuMUD, written by Katja Nyboe, Tom Madsen, Hans-Henrik   \
+  /            Staerfeldt, Michael Siefert, and Sebastian Hammer            \
+ |_________________________________         _________________________________| 
+                                   '-------'
+
+[1] Connect to a character             [6] Read about LegendMUD's Premise
+[2] Establish a new character          [7] Unarchive a character         
+[4] Request the Newbie Guide           [0] Exit
+[5] List immortals online who can help
+
+Enter your choice or the name of your character: 

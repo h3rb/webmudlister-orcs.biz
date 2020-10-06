@@ -1,0 +1,31 @@
+    *                                                               
+                       *                                     *     
+                                                                   
+                                                    *              
+                                                                   
+           TTTTT W     W  III  LL    III  GGGGG  H  H  TTTTT           
+             T   W     W   I   LL     I   G      H  H    T             
+     *       T   W  W  W   I   LL     I   G  GG  HHHH    T             
+             T    W W W    I   LL     I   G   G  H  H    T             
+             T     W W    III  LLLL  III  GGGGG  H  H    T             
+               *                                                   
+                                                              *    
+            FFFFF   A    LL    LL   III  NNN   NN  GGGGG           
+  *         FF     A A   LL    LL    I   NN N  NN  G               
+            FFFF  A   A  LL    LL    I   NN  N NN  G  GG  *        
+            FF    AAAAA  LL    LL    I   NN   NNN  G   G           
+            FF    A   A  LLLL  LLLL III  NN    NN  GGGGG           
+                                                                   
+                             *                                     
+                                                *                  
+        *                                              *           
+                                                                   
+                                                                                                                                     
+                                                                   
+                                                                   
+  "connect <name> <password>" connects you to an existing character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "connect guest guest" connects you to a guest character.
+
+                           **~~**~~**~~**~~**

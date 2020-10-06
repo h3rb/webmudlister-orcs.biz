@@ -1,0 +1,80 @@
+Web Mud Lister 
+Copyright (c) 2010 H. Elwood Gilliland III
+
+
+Installation of Web Mud Lister
+------------------------------
+
+1) Copy to folder on web server
+2) Configure settings inside config.inc.php then copy over to config.php
+3) chmod 777 -R lists/ 
+   chmod 777 cache
+   chmod 777 -R graphicals/lists
+   chmod 777 graphicals/cache
+   chmod 755 flashterm
+4) Configure optional components (below)
+5) (Optional) Add a nightly run of import/mirrors.php if you want to merge other webmudlists with yours
+   mirror.php should be run about 1 hour before cron.php
+6) Add a nightly run of cron.php with    php -f /path/to/file/cron.php
+7) Visit folder in web browser
+
+NOTE: You may wish to periodically make a manual backup of your lists/ directory content.
+You could use this to create a delta T projection like they do at FindMUD.com
+
+Optional Components
+-------------------
+
+--- Supporting ANSI MUD Banner translation to HTML
+
+In the perl/ folder, as root, install all three perl add-ons in this order:
+
+The other option is to render png files of MUDs using ansilove-php, (see below)
+but I felt that alone was a bit cumbersome.  It also uses the GPL.
+
+If you don't trust this source, the packages are available here:
+
+http://search.cpan.org/~ajwood/Term-VT102-0.91/VT102.pm (prereq)
+http://search.cpan.org/~rra/ANSIColor-3.00/ANSIColor.pm (prereq)
+http://search.cpan.org/~nuffin/HTML-FromANSI-2.03/lib/HTML/FromANSI.pm
+
+Download links are on the right hand side.
+
+Use this command trio to install from each archive in the order the links appear above:
+
+perl Makefile.PL
+make
+make test             (optional)
+make install
+
+If you want to use ansilove-php, install into your webmudlister directory and
+change the webmudlister config, also set ANSILOVE_FILES_DIRECTORY equal to ../cache
+inside ansilove.cfg.php ; notice: this changes the license to GPL
+
+--- Supporting the FlashTerm
+
+To use the terminal features of the web mud lister, Flash has to have
+a socket server running on a port on your local network.
+
+Packaged with webmudlister is FlashTerm, from www.FlashTerm.com,
+with original documentation intact.  The web mud lister dumps the 
+flashterm/settings.xml, so changing that file leads nowhere. 
+
+Settings for the FlashTerm are found in the config.inc.php or config.php file.
+The port used for running flashpolicyd_v0.6 will have to match in config.php
+to the one you use to run the policy server.
+
+* You'll want to add this server to your cron boot tasks, so it runs as a daemon. *
+
+To properly configure the Flash socket server with Web Mud Lister,
+you're going to have to visit the socket server directory in flasterm/flashpolicyd_v0.6
+and configure it according to the instructions found in README.txt
+
+http://www.adobe.com/devnet/flashplayer/articles/socket_policy_files.html
+
+This insures that the target server has permission.  Adobe's sample code is
+included (snarfed from the above link).  You can look at that in:
+
+flashterm/flashpolicyd_v0.6
+
+It's possible that MUDs who use the Flash Term could ban your service,
+since it bounces through your service to reach the MUD.  C'est la vie.

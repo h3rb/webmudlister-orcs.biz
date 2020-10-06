@@ -1,0 +1,24 @@
+HTTP/1.0 302 Found
+Location: http://mud.songwritingstudio.com/
+
+[H[J
+
+  Zugang via www:           http://mud.songwritingstudio.com
+  Zugang via telnet: telnet://mud.songwritingstudio.com:1234
+
+    ____            _                                    _
+   |  _ \ _ __ ___ | |__   ___ _ __ __ _ _   _ _ __ ___ | |
+   | |_) | '__/ _ \| '_ \ / _ \ '__/ _` | | | | '_ ` _ \| |
+   |  __/| | | (_) | |_) |  __/ | | (_| | |_| | | | | | |_|
+   |_|   |_|  \___/|_.__/ \___|_|  \__,_|\__,_|_| |_| |_(_)
+
+  
+   Willkommen im Proberaum!
+
+   Dies ist ein experimentelles MUD.  Es erfuellt keinerlei
+   Sinn oder Nutzen. Es existiert keinerlei Zusammenhang zu
+   realen Gegebenheiten oder Oertlichkeiten.  Bitte erwarte
+   keinerlei Bezug zur Realitaet.
+
+
+Wie lautet Dein Name: 

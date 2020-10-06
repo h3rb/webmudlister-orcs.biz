@@ -1,0 +1,19 @@
+<b>Submit a MUD, MUSH, MUCK, MOO or other telnet game:</b><br><br>
+<table>
+<script type="text/javascript">
+function submit_change(o) {
+ o.value="Authenticating: please wait and do not leave this page for up to 5 minutes!";
+ o.disabled=true;
+ document.submitform.submit();
+}
+</script>
+<style>
+.required { color:red; }
+</style>
+<form name="submitform" action=submit.php method=post>
+<tr><td>Name: <td><input name="name" type="text" size=70><span class="required">*</span><br></td></tr>
+<tr><td>telnet:// <td><input name="host" type="text" size=50> : <input name="port" type="text" size=10><span class="required">*</span><br></td></tr>
+<tr><td>http:// <td><input name="site" type="text" size=70><br></td></tr>
+<tr><td colspan="2"><input type="submit" onclick="javascript:submit_change(this);" value="List it!"></td>
+</form>
+</table>

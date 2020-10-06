@@ -1,0 +1,23 @@
+This world is Pueblo 1.0 enhanced
+
+Welcome to 
+
+     _   _         _      _          __  __   _    _    _____   _    _
+    | \ | |       | |    | |        |  \/  | | |  | |  / ____| | |  | |
+    |  \| |  ___  | |__  | |  ___   | \  / | | |  | | | (___   | |__| |
+    | . ` | / _ \ | '_ \ | | / _ \  | |\/| | | |  | |  \___ \  |  __  |
+    | |\  || (_) || |_) || ||  __/  | |  | | | |__| |  ____) | | |  | |
+    |_| \_| \___/ |_.__/ |_| \___   |_|  |_|  \____/  |_____/  |_|  |_|
+
+
+         		Based on the Noble Ends RP System
+
+------------------------------------------------------------------------------
+  "connect guest guest" connects you to a guest character.
+  "connect <name> <password>" connects you to an existing character.
+  "create <name> <password>" creates a new character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list.
+------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+<connection 
+	name="3Scapes" 
+	address="3scapes.org" 
+	port="3200" 
+	socket_server_port="5335"  
+	info_graphic=""
+	default_font="Topaz"
+	columns="80"
+	lines="50"/>
+<!--
+Optional attributes:
+info_graphic - URL of JPG, PNG, or GIF (eg. images/info.png)
+default_font - 80x25, 80x50, Pot Noodle, or Topaz
+-->

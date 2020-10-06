@@ -1,0 +1,30 @@
+
+[0;40m
+                                     [1;37m_____________
+                                    [1;37m/  _________  \
+                                   [1;37m/  /         \  \
+                                  [1;37m/  /           \  \
+                                 [1;37m/  /             \  \
+                                [1;37m(  (               )  )
+ [0;31mDDDD  [1;31mIIIII [1;33mZZZZZ [1;32mZZZZZ [0;32mYY YY   [1;37m\  \     / \     /  /  [1;34mMM  MM [0;35mUU UU [1;35mDDD
+ [0;31mDD  D [1;31m  I   [1;33m  ZZZ [1;32m  ZZZ [0;32m YYY     [1;37m\  \   )   (   /  /   [1;34mM MM M [0;35mUU UU [1;35mDD D
+ [0;31mDD  D [1;31m  I   [1;33mZZZ   [1;32mZZZ   [0;32m  Y       [1;37m\  \  ]   [  /  /    [1;34mM MM M [0;35mUU UU [1;35mDD D
+ [0;31mDDDD  [1;31mIIIII [1;33mZZZZZ [1;32mZZZZZ [0;32m  Y        [1;37m\  \  [ ]  /  /     [1;34mM MM M [0;35mUUUUU [1;35mDDD
+                                     [1;37m\  \ | | /  /
+                             [1;37m____     \  \| |/  /     ____      [0;34m
+                            [1;37m[    -----_\__J L__/_-----    ]     [0;34m
+                            [1;37m[         ____   ____         ]     [0;34m
+ [0;34mROM Version 2.4 beta       [1;37m[____-----    | |    -----____][0;34m
+                                          [1;37m| |          [0;34m        V
+ [0;34mOriginal DikuMUD by Hans Staerfeldt,     [1;37m| |          [0;34m        o
+ [0;34mKatja Nyboe, Tom Madsen, Michael         [1;37m[ ]          [0;34m        r
+ [0;34mSeifert, and Sebastian Hammer.          [1;37m]   [         [0;34m        t   Mozart
+ [0;34mBased on MERC 2.1 code by Hatchet,      [1;37m|   |         [0;34m    Jessa   o
+ [0;34mFurey, and Kahn.  ROM 2.4 copyright     [1;37m|   |         [0;34m    o   y   n
+ [0;34m(c) 1993-1995 Russ Taylor               [1;37m|   |         [0;34m    h   n   t
+                                         [1;37m[   ]         [0;34mLissa  Temperant
+ [0;34mGreeting by Lightning & Lotus          [1;37m]     [        [0;34m    n       e
+                                        [1;37m|     |        [0;34m            y
+                                        [1;37m|     |
+  admin@dizzymud.com                    [1;37m|  _  |[0;33m By what name do you wish
+                                        [1;37m[,' ',][0;33m to be known? 

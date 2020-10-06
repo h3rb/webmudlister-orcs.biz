@@ -1,0 +1,3 @@
+rm nohup.out
+./flashpolicyd.pl --file=policy.xml --port=5334 
+nohup ./flashpolicyd.py --file=policy.xml --port=5334 &

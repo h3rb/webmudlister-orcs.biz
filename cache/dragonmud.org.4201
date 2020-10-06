@@ -1,0 +1,9 @@
+<connected>
+Welcome to DragonMud!
+------------------------------------------------------------------------
+Use the WHO command to find out who is currently active.
+You can disconnect at any time by typing QUIT in all caps.
+------------------------------------------------------------------------
+[ Commands: connect <Name> <password>,  create <Name> <password>,  WHO ]
+[ Exits: QUIT ]
+------------------------------------------------------------------------

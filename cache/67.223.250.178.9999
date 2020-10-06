@@ -1,0 +1,34 @@
+
+ÿûVDo your client support ANSI colors? (Yes or No, C for Client SFXP Mode)
+[0;36mYou enter the realms with full [1;36mANSI[0;0m [0;36mcolor.[0;0m
+[1;30m               Original diku code by Hans-Henrik Staerfeldt,
+               Katja Nyboe, Tom Madsen, Michael Seifert, and
+                           Sebastian Hammer.
+
+                   [0;31m-*( [1;33mT H E [0;31m- [1;33mB A T T L E [0;31m- [1;33mO F [0;31m)*-
+
+                .
+              .xX                             x
+    .xXXXXx. XXXX                   .       x^ ^x
+  xXX~    ~X  XXX                   x                            xXXXXx.
+ XXX          XXX  xXXXx   xXXXXx  XX .xXx XX  xXX XXX .xXXx   xXX~  ^XXx
+ XXX.          XXxX^^^^XX X    XXX XXxX^^~ XX  ^XX  XXxX^^^Xx xXX.     XX
+  ~XXXXXXXXx.  XX^     XX   xxxXXX XX^    XX    XX  XX^    XX XXXXXXXXXXX
+    ~^    ^XXx XX      XX xX^  ^XX XX    xXX    XX  XX     XX XXX~^
+ x          XX XX     xX  XX    XX XX   xXX     XX  XX    xX  XXX   .xXXx.
+ XX       .XX^ XX     XX  XX.  .XX XX   XXX    xXX  XX    XX  ^XX.    ~XXX
+  ^XXxxxXXX^   XX     ^X.  ^XXXX~^~XX   ^XXxxxX^XX  XX    ^X.  ^XX.     XX
+    ^^~~^^     X^      ^Xx~        X^     ^^^    ^~ X^     ^Xx~  ^XXxxxX^
+               ^                   ^                ^               ^^^
+[0;33m                _________________________________________
+[0;33m              /^                                         ^\
+        [0;31m-*( [0;32mB E Y [1;32mO N D [0;31m- [1;32mT H E [0;31m- [1;33mA G E [0;31m- [1;32mO F [0;31m- [1;32mD R A G [0;32mO N S [0;31m)*-
+[0;33m              \._________________________________________./
+            
+[1;30m            Concept, game design, modifications and new code by
+                Emil Nilimaa, Jon-Mikko Lantha and Niklas Vedin
+                   See credits for additional creators
+                    Website: http://www.sharune.com
+[0;0m
+(For a new random name type: random)
+By what name do you wish to be known?:

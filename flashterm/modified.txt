@@ -1,0 +1,1 @@
+Added "terminal.php" and "connect.php" which are the glue between webmudlister and flashterm

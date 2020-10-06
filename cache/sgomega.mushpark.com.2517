@@ -1,0 +1,43 @@
+  _______
+ |            |                                |
+ |            |                                |
+ |_______  ___|___   __    ___   __    __   ___|___   ___
+        |     |     |  |  |     |  |  |  |     |     |   |
+        |     |     |__|  |     |  |  |__|     |     |___|
+        |     |     |  |  |     |  |  |  |     |     |
+ _______|     |     |  |  |     |__|  |  |     |     |___
+                                   |
+___________________________________|
+                                                            \     /
+                                                             \   /
+____________________________________________________________   *
+                                                             /   \
+                                                            /     \
+           _________
+          |         |
+          |         |
+          |         |    _____     ___     ___     ___
+          |         |   |  |  |   |   |   |   |   |   |
+          |         |   |  |  |   |___|   |   |   |___|
+          |         |   |  |  |   |       |   |   |   |
+          |_________|   |  |  |   |____   |___|   |   |
+                                              |
+         _____________________________________|
+
+------------------------------------------------------------------------------
+         Stargate Omega Station is a fictional game based in the universe
+  detailed in the Stargate SG-1 Roleplaying Game (powered by Spycraft) by 
+  AEG. This game is in no way affiliated with AEG or MGM Studios Inc.
+  STARGATE SG-1 is a trademark of Metro-Goldwyn-Mayer Studios Inc. SPYCRAFT
+  is a trademark of Alderac Ebtertainment Group, Inc.
+         Please visit our website at http://sgomega.mushpark.com
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "connect traveler" connects you to a guest account.
+  "create <name> <password>" creates a new character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+
+  Once logged on, "help" gives help on specific commands, functions, and
+  special topics.  Other 'help' commands include "+help" and "+news".
+------------------------------------------------------------------------------

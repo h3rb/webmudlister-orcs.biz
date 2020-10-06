@@ -1,0 +1,22 @@
+#$#mcp version: "2.1" to: "2.1"
+Welcome to Voregotten Realm MUCK !
+        _    __                            __  __           
+       | |  / /___  ________  ____ _____  / /_/ /____  ____ 
+       | | / / __ \/ ___/ _ \/ __ `/ __ \/ __/ __/ _ \/ __ \
+       | |/ / /_/ / /  /  __/ /_/ / /_/ / /_/ /_/  __/ / / /
+       |___/\____/_/   \___/\__, /\____/\__/\__/\___/_/ /_/ 
+                           /____/                           
+                     ____             __        
+                    / __ \___  ____ _/ /___ ___ 
+                   / /_/ / _ \/ __ `/ / __ `__ \
+                  / _, _/  __/ /_/ / / / / / / /
+                 /_/ |_|\___/\__,_/_/_/ /_/ /_/   by Henri.
+                                  
+To connect to your character, use: 'connect <character> <password>'
+To connect as a guest, use       : 'connect guest guest'
+For registration of a new character, please refer to:
+http://vore.got-game.org/VoregottenRealm/
+or:
+http://vore.changeip.org/VoregottenRealm/
+ 
+Use the 'QUIT' command to quit (in uppercase letters !).

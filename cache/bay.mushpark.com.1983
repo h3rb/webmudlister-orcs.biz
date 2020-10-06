@@ -1,0 +1,28 @@
+      @\ /@ 
+     @|XXX| :
+   @ |X| |X|  :
+ @   |X| |X|    :
+@    |X| |X|        :                                       .  @___@
+    |XXXXXXX|             :                            :       |X X|
+   |X|     |X|                  :                 :            |X X|.
+   |X|     |X|                          :  . . :               |X X| .
+   |X|-----|X|--------------------------------------------------- X|   .
+==/--------|X|----------------------------------------------------X|-------\
+           |X|                                                 |X X|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+THE     _ __           __             __  __            __               
+  _____(_) /___  __   / /_  __  __   / /_/ /_  ___     / /_  ____ ___  __
+ / ___/ / __/ / / /  / __ \/ / / /  / __/ __ \/ _ \   / __ \/ __ `/ / / /
+/ /__/ / /_/ /_/ /  / /_/ / /_/ /  / /_/ / / /  __/  / /_/ / /_/ / /_/ / 
+\___/_/\__/\__, /  /_.___/\__, /   \__/_/ /_/\___/  /_.___/\__,_/\__, /  
+          /____/         /____/                                /____/   
+      			     						MUX
+Based on the 'Anita Blake Vampire Hunter' book series by Laurell K. Hamilton.
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "connect guest" connects you to a guest account if one is prepared.
+  "create <name> <password>" creates a new character.
+
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+------------------------------------------------------------------------------

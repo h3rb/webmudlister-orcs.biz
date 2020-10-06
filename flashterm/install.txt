@@ -1,0 +1,1 @@
+Uses 2 host/ports set in flashsocket.php and flashpolicyd_v0.6/policy.xml
